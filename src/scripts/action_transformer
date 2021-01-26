@@ -1,0 +1,65 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan  6 16:28:00 2021
+
+@author: quangkhanh
+"""
+import pandas as pd
+from tqdm import tqdm
+
+onenet_model_path = "../../model/denver-onenet.tar.gz"
+
+from denver.learners import OnenetLearner
+learn = OnenetLearner(mode='inference', 
+                      model_path=onenet_model_path)
+
+
+df = pd.read_csv("../../data/all_chatlog_2020_5d.csv")
+
+shop_id = 1059845080701224
+
+new_df = df.copy()
+n_row = new_df.shape[0]
+
+
+
+i = 0
+def transform_to_action(x): 
+    global i
+    i += 1
+    if str(x) == "nan": 
+        return ""
+    else:
+        try: 
+            result = learn.predict(sample=x)
+            # print(result)
+            return result["int"]
+        except: 
+            print(x, i)
+            return "UNKNOWN"
+        
+for i in tqdm(range(n_row), desc="Processing"):
+    if str(new_df.at[i, "attachments"]) != "nan":
+        if new_df.at[i, "attachments"].startswith("https://sco"): 
+            object_sent = "send_image"
+        else: 
+            object_sent = "sent_gif"
+        if new_df.at[i,"sender_id"] == shop_id: 
+            new_df.at[i,"shop_message"] = object_sent 
+        else: 
+            new_df.at[i,"user_message"] = object_sent
+
+df["user_action"] = df.user_message.apply(transform_to_action)
+df["shop_action"] = df.shop_message.apply(transform_to_action)
+
+actions = df[["conversation_id", "user_message", "user_action", "shop_message", "shop_action"]]
+
+for i in range(actions.shape[0]):
+    if str(new_df.at[i, "attachments"]) == "nan": 
+        continue
+    if new_df.at[i, "sender_id"] != shop_id:
+        if new_df.at[i, "user_message"].startswith("send_"):
+            actions.at[i, "user_action"] = new_df.at[i, "user_message"]
+actions.user_action = actions.user_action.apply(lambda x: "send_link" if x == "UNKNOWN" else x)
+actions.to_csv("../data/actions1.csv")

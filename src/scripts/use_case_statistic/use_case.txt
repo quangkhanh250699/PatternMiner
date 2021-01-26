@@ -1,0 +1,11 @@
+send_image->ask_availability
+send_image->request#price
+send_image->send_image->request#price
+request#price->send_image->send_image
+handover_to_inbox->ask_availability
+handover_to_inbox->request#price
+request_shop_address
+request_freeship
+request_shipping_fees
+send_image->request#color
+order_request

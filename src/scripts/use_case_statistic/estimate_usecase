@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 22 13:58:02 2021
+
+@author: quangkhanh
+"""
+
+from src.miner.extractor import FlowExtractor
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+
+def read_usecase(file_path: str): 
+    with open(file_path, "r") as file:
+        use_case = file.read().split("\n")
+        
+    return use_case
+
+fe = FlowExtractor()
+flows = fe.extract("data/user_actions.csv")
+transformed_flow = ["->".join(flow.flow) for flow in flows]
+
+file_path = "src/scripts/use_case_statistic/use_case.txt"
+use_cases = read_usecase(file_path)
+
+frequency = {}
+frequency["total"] = flows.__len__()
+for usecase in use_cases:
+    count = 0
+    for flow in transformed_flow: 
+        if usecase in flow:
+            count += 1
+    
+    frequency[usecase] = count
+
+
+df = pd.DataFrame({"usecase": frequency.keys(),
+                   "frequency": frequency.values()})
+df["percentage"] = df.frequency / frequency["total"] * 100
+df.to_csv("data/usecase_frequency.csv", index=False)
+
+df1 = df.drop(0, axis=0)
+
+figure = plt.figure(figsize=(12, 8))
+sns.barplot(data=df1, y="usecase", x="percentage")
