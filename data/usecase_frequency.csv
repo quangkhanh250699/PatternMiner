@@ -1,0 +1,13 @@
+usecase,frequency,percentage
+total,19123,100.0
+send_image->ask_availability,695,3.63436699262668
+send_image->request#price,1866,9.757883177325734
+send_image->send_image->request#price,128,0.6693510432463525
+request#price->send_image->send_image,79,0.4131150970036082
+handover_to_inbox->ask_availability,116,0.606599382942007
+handover_to_inbox->request#price,120,0.6275166030434556
+request_shop_address,1133,5.924802593735293
+request_freeship,543,2.839512628771636
+request_shipping_fees,558,2.9179522041520682
+send_image->request#color,27,0.14119123568477748
+order_request,1277,6.6778225173874395

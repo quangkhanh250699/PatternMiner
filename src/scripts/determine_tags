@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar  4 15:12:48 2021
+
+@author: quangkhanh
+"""
+
+import pandas as pd
+from tqdm import tqdm
+import re
+
+onenet_model_path = "model/denver-onenet.tar.gz"
+
+from denver.learners import OnenetLearner
+learn = OnenetLearner(mode='inference', 
+                      model_path=onenet_model_path)
+
+
+df = pd.read_csv("data/all_chatlog_2020_5d.csv")
+
+shop_id = 1059845080701224
+
+user_messages = df.user_message.dropna().to_list()
+
+tags_result = {}
+
+for i in tqdm(range(len(user_messages)), desc="processing"):
+    prediction = learn.predict(sample=user_messages[i])
+    try: 
+        span_tags = prediction['span_tags']
+        for tag in span_tags:
+            if tag[0] not in tags_result.keys():
+                tags_result[tag[0]] = []
+            try: 
+                content = re.match('(.*): (.*)', tag[1]).group(2)
+                tags_result[tag[0]].append(content)
+            except: 
+                pass
+    except: 
+        pass

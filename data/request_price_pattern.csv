@@ -1,0 +1,9 @@
+,pattern,frequency
+0,handoff&request#price&shop_turn!!!handoff->shop_turn&request#price->shop_turn&shop_turn->handoff&shop_turn->request#price,974
+3,request#price&send_image&shop_turn!!!request#price->shop_turn&send_image->shop_turn&shop_turn->request#price&shop_turn->send_image,440
+10,handoff&request#price!!!request#price->handoff,458
+13,handoff&request#price&send_image&shop_turn!!!request#price->shop_turn&send_image->request#price&shop_turn->handoff,850
+22,request#price&send_image&shop_turn!!!request#price->send_image&send_image->shop_turn,584
+27,request#price&send_image&shop_turn!!!request#price->shop_turn&send_image->request#price&shop_turn->send_image,820
+29,handoff&request#price&send_image&shop_turn!!!handoff->send_image&request#price->shop_turn&send_image->request#price,721
+32,request#price&shop_turn!!!request#price->shop_turn&shop_turn->request#price,438

@@ -29,3 +29,6 @@ class UserNodeFactory(NodeFactory):
 
     def count(self) -> int:
         return self.__map.__len__()
+    
+    def to_list(self):
+        return list(self.__map.values())

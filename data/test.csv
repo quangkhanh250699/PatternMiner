@@ -1,0 +1,925 @@
+﻿sentence,ic,ner
+vâng để r xem,agree,O O O O
+dạ vâng ah,agree,O O O
+vâng về địa chỉ,agree,O O O O
+dạ vâng đúng e ạ,agree,O O O O O
+vâng đến đó toàn phụ nữ sau sinh bị,agree,O O O O O O O O O
+đung roi,agree,O O
+ừa bạn ạ,agree,O O O
+vâng th thì tốt ạ,agree,O O O O O
+dạ vâng ạ em bi t rồi ạ,agree,O O O O O O O O
+à vâng mình quên mất,agree,O O O O O
+đc c ơi,agree,O O O
+à vâng shop ơi,agree,O O O O
+vâng ạ mai em ghé ạ,agree,O O O O O O
+dung roi cau,agree,O O O
+đúng ròii,agree,O O
+vâng ah để mình nghiên cứu ah,agree,O O O O O O O
+dạ vâng vậy để em nghiên cứu nhé,agree,O O O O O O O O
+uh dung roi b,agree,O O O O
+đúng rồi,agree,O O
+đúng roi em,agree,O O O
+vâng shop à,agree,O O O
+vâng có gì mình ib nha,agree,O O O O O O
+vâng vậy cũng đc ah,agree,O O O O O
+dạ vâng thế thôi cũng đc ạ,agree,O O O O O O O
+vâng oki shop,agree,O O O
+vâng oki ạh,agree,O O O
+hà uhm,agree,O O
+vâng bạn ạ,agree,O O O
+dạ vâng bạn,agree,O O O
+đúng rồi n,agree,O O O
+vâng ạ có gì e sẽ qua shop xem và lấy hàng ạ,agree,O O O O O O O O O O O O O
+đúng rồi c ah,agree,O O O O
+vâng có j m báo sh ạ,agree,O O O O O O O
+ok shop đúng rồi ạ,agree,O O O O O
+dạ vâng để e thử qua shopee,agree,O O O O O O O
+vâng minh biet la de lau qua,agree,O O O O O O O
+uhm đúng rồi,agree,O O O
+vâng ạ hihi,agree,O O O
+dạ vâng vậy e lấy,agree,O O O O O
+à dạ vâng c,agree,O O O O
+dạ đúng ròi,agree,O O O
+vâng hi,agree,O O
+đúng rồi b a,agree,O O O O
+uhm dung roi,agree,O O O
+vâng ạ để chiều em qa mua,agree,O O O O O O O
+đung roi a,agree,O O O
+vâng e trả giá r ạ,agree,O O O O O O
+vâng có j e sẽ liên lạcj lại ạ,agree,O O O O O O O O O
+vâng 2 thanh,agree,O O O
+vâng th cg đc ạ,agree,O O O O O
+đúng rồi bạn thanh chứ y mình ko mua,agree,O O O O O O O O O
+vâng hi vọng chất lượng ưng ah,agree,O O O O O O O
+vâng về m xem lại ạ,agree,O O O O O O
+ừa cậu,agree,O O
+vâng có gì e ủng hộ c dài,agree,O O O O O O O O
+vâng th để e lấy qua shopee vậy ạ,agree,O O O O O O O O O
+ukm đúng rồi bạn ạ,agree,O O O O O
+hi chị,greet,O O
+shop oiw,greet,O O
+cị oi,greet,O O
+th c ơi,greet,O O O
+alo alo ah,greet,O O O
+hi ukie shop,greet,O O O
+hi anh chị,greet,O O O
+bạn oiq,greet,O O
+alop,greet,O
+aloooo shoppppp,greet,O O
+alo cau oi,greet,O O O
+alooo chi oi,greet,O O O
+hi shoo,greet,O O
+alo p,greet,O O
+alooo shop,greet,O O
+hi c,greet,O O
+alo ah,greet,O O
+alo shop ơi,greet,O O O
+alo em oi,greet,O O O
+alo chủ shop,greet,O O O
+hi mom,greet,O O
+alo shop ơiiiiiiii,greet,O O O
+alo chị oei,greet,O O O
+hi c oi,greet,O O O
+alo c oi,greet,O O O
+alo ola,greet,O O
+alo s ơi,greet,O O O
+alooo ban oi,greet,O O O
+trai chị ơi,greet,O O O
+em ôi,greet,O O
+shop ưi,greet,O O
+người đẹp ơi,greet,O O O
+chào sh,greet,O O
+hii,greet,O
+alo chị ơiiiii,greet,O O O
+aloooo ạ,greet,O O
+bi ngô ơi,greet,O O O
+câu ới,greet,O O
+mak sh ơi,greet,O O O
+b ơi bạn,greet,O O O
+c uiuiuiui,greet,O O
+alo cậu,greet,O O
+alo 123,greet,O O
+c ưu ui,greet,O O O
+alo shop kwi,greet,O O O
+aloo shop ơi,greet,O O O
+alo bn oi,greet,O O O
+alo shop a,greet,O O O
+shoppp ơiii,greet,O O
+mà b ơi,greet,O O O
+alo bạn oưi,greet,O O O
+ko bạn oi,greet,O O O
+oh ba n ui,greet,O O O O
+alo t ơi,greet,O O O
+uhm em ơi,greet,O O O
+alo bạn ơi,greet,O O O
+hi chị ơi,greet,O O O
+nàng ui,greet,O O
+hello,greet,O
+b ơiiiii,greet,O O
+cảm ơn shop nhé,thank,O O O O
+thanks b nh,thank,O O O
+em cam on shop a,thank,O O O O O
+cảm ơn sh ạ,thank,O O O O
+thankss mình sẽ llac lai,thank,O O O O O
+thanks c ạ,thank,O O O
+để m suy nghĩ lại đã cảm ơn shop nha,thank,O O O O O O O O O O
+thanksce,thank,O
+mình cám ơn shop nhiều nhé,thank,O O O O O O
+e cảm ơn nhé,thank,O O O O
+vậy cám ơn shop nhiu nhé,thank,O O O O O O
+thank shop sẽ ủng hộ dài dài ạ,thank,O O O O O O O O
+cảm ơn b m vừa mua mất r,thank,O O O O O O O O
+m cam on nhe,thank,O O O O
+e cảm ơn ạh,thank,O O O O
+vậy c cảm ơn,thank,O O O O
+e cam on a,thank,O O O O
+cám ơn b nhièu,thank,O O O O
+cám ơn shop,thank,O O O
+e cảm ơn nha,thank,O O O O
+thanks bạn để mình xem tình hình có gì sẽ liên hệ lại sau nhé,thank,O O O O O O O O O O O O O O O
+m cảm ơn nhé làm phiền bn quá,thank,O O O O O O O O
+dạ e cám ơn vài ngày nữa e gửi bill cho c nhé,thank,O O O O O O O O O O O O O
+cảm ơn sop mình đặt hàng rồi,thank,O O O O O O O
+cám ơn b,thank,O O O
+mình cảm ơn nhé đang lên list mua đồ dần cho bé nên khi nào tiện sẽ ghé qua shop,thank,O O O O O O O O O O O O O O O O O O O O
+mình cảm ơn bạn,thank,O O O O
+mình cám ơn đã tư vấn,thank,O O O O O O
+cám ơn shop mình sẽ liên hệ lại sau,thank,O O O O O O O O O
+vô cùng cảm ơn shop,thank,O O O O O
+cám ơn m nhé,thank,O O O O
+cảm ơn bạn nhiều nha,thank,O O O O O
+thanks shop,thank,O O
+cảm ơn nhiều,thank,O O O
+vâng tks shop nhé,thank,O O O O
+m cam on nha,thank,O O O O
+t cảm ơn nhìu,thank,O O O O
+mình vừa nhận hàng rất ưng ship lại rẻ 2 chiếc mà 115k thôi cảm ơn shop nhiều nhé,thank,O O O O O O O O O O O O O O O O O O O
+à cảm ơn b nha,thank,O O O O O
+cám ơn bác,thank,O O O
+mình nhận đc hàng rồi cảm ơn shop nhé,thank,O O O O O O O O O
+thank b đã đăng dùm nha,thank,O O O O O O
+m cam on b,thank,O O O O
+thanks e nhìu,thank,O O O
+cám ơn bạn nha mình sẽ tham khảo,thank,O O O O O O O O
+cám ơn shop nhe để mình tínb lại,thank,O O O O O O O O
+cám one shop,thank,O O O
+em cam on chị,thank,O O O O
+cảm ơn b nhiu,thank,O O O O
+càm ơn bạn,thank,O O O
+thanks bác nha,thank,O O O
+m cảm ơn m sẽ ghé sau ạ,thank,O O O O O O O O
+cám ơn shop nhé có gì mình sẽ liên hệ,thank,O O O O O O O O O O
+vậy cảm ơn shop,thank,O O O O
+em cảm ơn,thank,O O O
+cảm ơn sh nhé để minh xem,thank,O O O O O O O
+thanks n,thank,O O
+thanks c nhiud nha,thank,O O O O
+thanks bạn nhé,thank,O O O
+thanks shop mình sẽ xem trên shoppe ạ,thank,O O O O O O O O
+auto reply à shop ơi,ask_is_bot,O O O O O
+la bot hay ng the,ask_is_bot,O O O O O
+la bot hay nguoi the,ask_is_bot,O O O O O
+người hay máy đấy hả sh,ask_is_bot,O O O O O O
+chatbot tu dong ah,ask_is_bot,O O O O
+nvien hay bot vậy,ask_is_bot,O O O O
+nvien hay chatbot vậy,ask_is_bot,O O O O
+shop su dung chatbot a,ask_is_bot,O O O O O
+shop oi auto reply hả,ask_is_bot,O O O O O
+shop ơi chatbot a,ask_is_bot,O O O O
+shop ơi chatbot tự động à,ask_is_bot,O O O O O O
+nvien hay bot,ask_is_bot,O O O
+shop de tra loi tu dong ah,ask_is_bot,O O O O O O O
+có phải bot ko shop,ask_is_bot,O O O O O
+co phai nguoi ko,ask_is_bot,O O O O
+sh oi bot tự động à,ask_is_bot,O O O O O O
+máy hay người vậy shop,ask_is_bot,O O O O O
+chatbot à shop ơi,ask_is_bot,O O O O
+shop oi nvien hay chatbot vay,ask_is_bot,O O O O O O
+shop oi bot hay nvien vay ah,ask_is_bot,O O O O O O O
+tra loi tu dong a,ask_is_bot,O O O O O
+nhân viên shop hay gì th,ask_is_bot,O O O O O O
+shop dùng bot a,ask_is_bot,O O O O
+đang chat với bot hay người th,ask_is_bot,O O O O O O O
+bot hay nguoi,ask_is_bot,O O O
+shop ơi auto trả lời à,ask_is_bot,O O O O O O
+auto reply a,ask_is_bot,O O O
+tu dong tra loi,ask_is_bot,O O O O
+ng hay chatbot vậy shop,ask_is_bot,O O O O O
+bot ha,ask_is_bot,O O
+có phải người ko,ask_is_bot,O O O O
+shop oi auto reply à,ask_is_bot,O O O O O
+nguoi hay chatbot,ask_is_bot,O O O
+shop sử dụng chatbot à,ask_is_bot,O O O O O
+"còn [áo sơ mi]{""entity"": ""inform#object_type"", ""value"": ""ao_so_mi""} trắng cho bé đi học ko b",handoff,O O O O O O O B-inform#color O O O O O O
+có kiểu này cho be gái k shop,handoff,O B-inform#mention I-inform#mention O B-inform#gender I-inform#gender O O
+bên mình có thuê mẫu nhí chụp ảnh ko ạ?,handoff,O O O O O O O O O O
+shop có bộ thu đông cho bé trai 7 tháng tuổi và bé trai 3 tuổi k ai,handoff,O O B-inform#object_type B-inform#season I-inform#season O B-inform#gender I-inform#gender B-inform#age I-inform#age I-inform#age O B-inform#gender I-inform#gender B-inform#age I-inform#age O O
+mà mẫu đầu vẫn còn đúng k bạn,handoff,O B-inform#mention I-inform#mention O O O O O
+7 tuổi có mẫu nào ko em,handoff,B-inform#age I-inform#age O O O O O
+"b có mẫu [áo dài]{""entity"": ""inform#object_type"", ""value"": ""ao""} nào cho bé trai 14kg ko",handoff,O O O O O O O O O O B-inform#gender I-inform#gender B-inform#weight O
+"c vừa ck mua [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} nhé",handoff,O O O O O O O O O
+"[áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} còn ko shop",handoff,O O O O O O O
+"bên mình có [mũ]{""entity"": ""inform#object_type"", ""value"": ""mu""} rộng vành cho bé 3 tuổi hok",handoff,O O O O O O O O O O O B-inform#age I-inform#age O
+mình có thể đổi lại ở cơ sở tại thành phố nam định đc k ạ,handoff,O O O O O O O O O O O B-inform#location I-inform#location O O O
+địa chỉ: hội nông dân tỉnh phú thọ,handoff,O O B-inform#location I-inform#location I-inform#location O B-inform#location I-inform#location
+chúc a sinh nhật vui vẻ! tuổi mới luôn hạnh phúc và thành công ạ!,handoff,O O O O O O O O O O O O O O O
+mình k nhận được tin nhắn tặng khẩu trang của shop nên mới đăng ký hôm nay được k shop?,handoff,O O O O O O O B-inform#object_type I-inform#object_type O O O O O O O O O O O
+"dài [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} rộng [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} dài [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} rộng [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} của từng size ấy",handoff,O O O O O O O O O O O O O O O O O O O O O O O O
+"cả [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} nhung đỏ [chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} trắng nữa",handoff,O O O O O B-inform#material B-inform#color O O O O O B-inform#color O
+jean cứng hay mềm,handoff,O O O O
+nếu ko vừa có đc đổi k b,handoff,O O O O O O O O
+"shop ơi, bữa trc mình được tặng đồ chương trình minigame mà chưa ra ch lấy được",handoff,O O O O O O O O O O O O O O O O O
+mua onl có đc 1tặng 1 k e,handoff,O O O O O O O O
+trang web bên bạn không vào dc gì cả,handoff,O O O O O O O O O
+chị đnag cần gấp quá,handoff,O O O O O
+mình có thể đổi lại cửa hàng nhận quà được không?,handoff,O O O O O O O O O O O
+m có đổi hàng dc ko,handoff,O O O O O O
+"nguyễn thị luyến. phòng nội vụ huyện yên phong, tỉnh bắc ninh. 0975.616.689",handoff,O O O O O O O O O O B-inform#location I-inform#location O
+"mà giờ mình về quê rồi, mình gửi chuyển phát đôi size đc k shop",handoff,O O O O O O O O O O O O O O O
+vậy mình có đc đổi ở cửa hàng khác ko ạ?,handoff,O O O O O O O O O O O
+chị mua đồ ở hàng da thì p qua đấy đổi à em?,handoff,O O O O O O O O O O O O O
+cho c chị xin maaux thêm nhé,handoff,O O O O O O O
+nhận dc các bạn giúp đổi sang size 5 giúp mình nhé,handoff,O O O O O O O O O O O O
+mình vừa mua áo bên mình qua shopee nhưng k biết có phải hàng sale k mà để chỉ thừa rồi sợi vải như này,handoff,O O O B-inform#object_type O O O O O O O O O O O O O O O O O O B-inform#material B-inform#mention I-inform#mention
+hôm mua e lỡ bấm nhầm size,handoff,O O O O O O O
+"mình thử cho bé có 1 -2 [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} bị chật",handoff,O O O O O O O O O O O O O
+em vào web mà k xem đc,handoff,O O O O O O O
+:( k bit bạn mc chốt đơn kiểu gì,handoff,O O O O O O O O O
+có hỗ trợ mua online ko,handoff,O O O O O O
+mặc sz gì ạ,handoff,O O O O
+mình ở đông anh,handoff,O O B-inform#location I-inform#location
+chị cần size 100- 120- 130,handoff,O O O B-inform#height I-inform#height I-inform#height
+dạ cho em hỏi bên mình còn chi nhánh bên 838 láng ko ạ,handoff,O O O O O O O O O O O B-inform#location O O
+"mình ko có hoá đơn, ko biết mình có thể mang đồ qua các cửa hàng của kcloset để đổi ko bạn",handoff,O O O O O O O O O O O O O O O O O O O O O O
+nam định thì khoảng bao lâu nữa có hàng vậy shop?,handoff,B-inform#location I-inform#location O O O O O O O O O
+"kscloset.vn truy cập quá chậm, mong khắc phục sớm!",handoff,O O O O O O O O O
+nhưng đến 2 lần vẫn chưa có hàng,handoff,O O O O O O O O
+e mua ao nha mình có chương trình gì ko,handoff,O O B-inform#object_type O O O O O O O
+"đi qua thấy đóng cửa rồi, tiếc thật",handoff,O O O O O O O O
+bạn ơi cho mình hỏi shop có sẵn mẫu này ko,handoff,O O O O O O O O B-inform#mention I-inform#mention O
+em ơi chị đăng ki rui mà chưa thay phản hồi,handoff,O O O O O O O O O O O
+bạn ơi mình nhờ tư vấn size cân nặng cho bé ở đâu,handoff,O O O O O O O O O O O O O
+size lớn nhất của mẫu này là size gì vậy em,handoff,O O O O B-inform#mention I-inform#mention O O O O O
+bạn gửi giúp m về nguyễn duy ngọc phòng 3 cục cshs bộ công an. 497 nguyễn trãi thanh xuân hà nội 0914258108,handoff,O O O O O B-inform#location I-inform#location I-inform#location O O O O O O O O O O B-inform#location I-inform#location B-inform#location I-inform#location O
+địa chỉ shop ở đâu em?,handoff,O O O O O O
+shop còn sale đến bao giờ b,handoff,O O O O O O O
+"c vừa ghé cửa hàng mua cách đây 2 hôm, ko đc sale tiếc quá",handoff,O O O O O O O O O O O O O O O
+mình tưởng còn những mẫu trên minh mua vai bộ mặc lun,handoff,O O O O O O O O O O O O
+"[áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} màu hồng vtr. ắng",handoff,O O O O B-inform#color I-inform#color B-inform#color I-inform#color
+địa chỉ mình o đâu vây,handoff,O O O O O O
+"bạn ơi, năm nay bên bạn đã có đồ halloween chưa nhỉ",handoff,O O O O O O O O O O O O
+"t đang tìm mấy cái đầm thun tay dài cho nó, dạo này điệu thấy ớn thời tiết lạnh mà đòi mặc đầm với quần sì, cái đầm tuần lộc m mua mặc suốt mới giặt xong khô là lôi mặc tiếp",handoff,O O O O O B-inform#object_type I-inform#object_type O O O O O O O O O O O O O O O O O B-inform#object_type O O O O O O O O O O O O O O O O O
+cho e xem sản phẩm ba lỗ ah,handoff,O O O O O O O O
+hỗ trợ mình mua hàng với ạ,handoff,O O O O O O O
+tại thấy ghi trên bill là sản phẩm sale k đổi dc nên em nhắn tin hỏi shop ạ,handoff,O O O O O O O O O O O O O O O O O O O
+cho mình xem hình đc k,handoff,O O O O O O
+"[áo dài]{""entity"": ""inform#object_type"", ""value"": ""ao""} ch tháy đg sale đung ko",handoff,O O O O O O O O O O O
+m đặt combo 2 đôi tất 1k trên shoppee,handoff,O O O O O O O O O
+dạ e muốn hỏi đồ bên sopee có phải là đồ hãng mình k thôi ạ,handoff,O O O O O O O O O O O O O O O O
+co phân biệt ký và tuổi k ạ,handoff,O O O O O O O O
+b gưit giúp mình set áo dài mẹ và bé màu hồng,handoff,O O O O O B-inform#object_type O O O O B-inform#color I-inform#color
+chị ở hà đông,handoff,O O B-inform#location I-inform#location
+chỗ gần chợ hàng da,handoff,O O O O O
+"nhận hsngf thấy mỏng dính, đã nghi nghi",handoff,O O O O O O O O
+mình có đơn hàng đặt trên web,handoff,O O O O O O O
+và ở đâu có hàng,handoff,O O O O O
+hệ thống cửa hàng của mình có chế độ đổi hàng sale k nhỉ,handoff,O O O O O O O O O O O O O O
+"gui minh xin cac mẫu [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} nhé",handoff,O O O O O O O O O O
+vui lòng phản hồi mình trên shopee,handoff,O O O O O O O
+bộ này bé 26kg vừa k,handoff,B-inform#mention I-inform#mention O B-inform#weight O O
+web gì nâng cấp quài từ bữa giờ.chập ko muốn mua luôn,handoff,O O O O O O O O O O O O
+"nhưng vào website của kcloset thì chạy cực chậm, mẫu ko update đủ",handoff,O O O O O O O O O O O O O
+cho c địa chỉ cửa hàng gần nhất với,handoff,O O O O O O O O O
+e đặt hàng trên shopee bị báo lỗi là sao ạ,handoff,O O O O O O O O O O O
+"của mình thì là bộ quần áo và [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} len cardigan đúng ko ad",handoff,O O O O B-inform#object_type I-inform#object_type I-inform#object_type O O O O O O O O O O
+mình muốn mở cửa hàng tại địa phương thì chế độ ntn,handoff,O O O O O O O O O O O O
+shop có cardigan bé gái không a,handoff,O O O B-inform#gender I-inform#gender O O
+"[quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} bé trai còn mẫu sooc nào nữa ko vậy?",handoff,O O O O B-inform#gender I-inform#gender O O O O O O O
+chất vải quần là chất ji vậy shop,handoff,O O O O O O O O
+mình muốn đổi thì fai làm ntnao vậy shop,handoff,O O O O O O O O O
+m mua kiểu gì dc giảm giá,handoff,O O O O O O O
+trông giống mấy cái trên mạng,handoff,O O O O O O
+"cho mình xin link áo sơ mi , [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} bé trai gái với. mình muốn tham khảo mua cho 2 bạn nhà mình",handoff,O O O O B-inform#object_type I-inform#object_type I-inform#object_type O O O O O B-inform#gender I-inform#gender B-inform#gender O O O O O O O O O O O
+"bạn ơi, cho minh hỏi hôm trc mình có đăng kí nhận khẩu trang mình cứ đến lấy hay ntn hả bạn",handoff,O O O O O O O O O O O O B-inform#object_type I-inform#object_type O O O O O O O O
+cho mình hỏi bên bạn có khẩu trang vải kháng khuẩn cho bé 1 tuổi rưỡi ko ạ?,handoff,O O O O O O O O B-inform#material O O O O B-inform#age I-inform#age I-inform#age O O
+"hôm qua mình đặt hai [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} trên live",handoff,O O O O O O O O O O O
+số nay m ko ll dược,handoff,O O O O O O
+ý m hỏi là mua ở hn thì có thể đổi đc ở các cửa hàng trong hcm k?,handoff,O O O O O O B-inform#location O O O O O O O O O O B-inform#location O
+ct có áp dụng mua hàng tại đại lí ko ad?,handoff,O O O O O O O O O O O
+chương trình khuyến mãi mua tại cửa hàng hay mua onl qua page này cũng được ?,handoff,O O O O O O O O O O O O O O O O O
+"ok, tối c về chụp gửi nha( web ko co).e đặt trc giúp c cai quần bò nhé",handoff,O O O O O O O O O O O O O O O B-inform#object_type I-inform#object_type O
+chất liệu có mát k ah,handoff,O O O O O O
+"mở ra có mỗi 1 cái [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""}",handoff,O O O O O O O O O O
+"bên savico còn đồ hoá trang j cho bé 2,5t bé gái k ạ?",handoff,O O O O O O O O O B-inform#age B-inform#gender I-inform#gender O O
+"xem hộ c [chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} này còn ko",handoff,O O O O O O O O B-inform#mention O O
+sale trên shoppe thì có sale tại cửa hàng k ạ,handoff,O O O O O O O O O O O
+mà thử thì bé bị chật bụng,handoff,O O O O O O O
+có ctrinh kami gì ko ạ,handoff,O O O O O O
+"mình đăng ký nhận thưởng ở cửa hàng đường láng, vậy đến khi nào m mới nhận dc",handoff,O O O O O O O O O O O O O O O O O O
+bữa ở đaklak\nem đăng ký khẩu trang mà nay đến lấy không có quà tặng là sao ạ,handoff,O O B-inform#location O O B-inform#object_type I-inform#object_type O O O O O O O O O O O
+sản phẩm đồng phục tại các cửa hàng có ưu đãi 50% rồi đúng k ak,handoff,O O O O O O O O O O O O O O O O
+mẫu này còn cho bé k ạ,handoff,B-inform#mention I-inform#mention O O O O O
+chị liên hệ rồi nhé,handoff,O O O O O
+trên web của em bộ chị ghi có giảm,handoff,O O O O O O O O O
+hệ thống cửa hàng của k's closet,handoff,O O O O O O O
+có ship hem ah,handoff,O O O O
+985188999,handoff,O
+ko có chương trình sale hả e,handoff,O O O O O O O
+ừa ko cần giao hn đâu,handoff,O O O O B-inform#location O
+vậy đặt online dc ko?,handoff,O O O O O
+shop cho mình hỏi từ mai bắt đầu sale 50% tất cả toàn bộ sản phẩm ạ?,handoff,O O O O O O O O O O O O O O O O O
+bạn nói rõ hơn về sản phẩm này được chứ?,handoff,O O O O O B-inform#mention I-inform#mention I-inform#mention O O
+còn mẫu nào cho hallowwen nữa ko e,handoff,O O O O O O O O
+kiểu đi chơi nhé,handoff,O O O O
+có đi chụp mẫu cho 1 brand,handoff,O O O O O O O
+m vào web mà k xem được,handoff,O O O O O O O
+0988932266 nhé,handoff,O O
+size to nhất là size mấy tuổi em?,handoff,O O O O O O O O
+ở phố huế còn ko b m qua đó lấy luôn,handoff,O B-inform#location I-inform#location O O O O O O O O
+website bên mình có đủ các mẫu ko?,handoff,O O O O O O O O
+hàng sale mà k vừa có đc đổi size k e,handoff,O O O O O O O O O O O
+mình ck rồi nhé,handoff,O O O O
+"e ơi gửi hình cho ci [bộ quần áo]{""entity"": ""inform#object_type"", ""value"": ""bo""} mùa hè , [áo cộc tay]{""entity"": ""inform#object_type"", ""value"": ""ao""} [quần lửng]{""entity"": ""inform#object_type"", ""value"": ""quan""} cho bé 4 tuổi 20 kg . con gái nhé",handoff,O O O O O O O O O O O O B-inform#season I-inform#season O O O O O O O O O O O O O O B-inform#age I-inform#age B-inform#weight I-inform#weight O B-inform#gender I-inform#gender O
+phí cod có cao ko thì mình ck trc cũng đc,handoff,O O O O O O O O O O O
+cửa hàng aeon còn mẫu này k b nhỉ?,handoff,O O B-inform#location O B-inform#mention I-inform#mention O O O
+có tại địa chỉ nào ạ,handoff,O O O O O O
+"năm ngoái mua [sét]{""entity"": ""inform#object_type"", ""value"": ""set""} [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} bí ngô cũng bị hết size",handoff,O O O O O O O O O O O O O O O O O
+"hiện tại mình có ctrinh gì cho trang phục [áo dài]{""entity"": ""inform#object_type"", ""value"": ""ao""} k",handoff,O O O O O O O O O O O O O O O
+shop còn khẩu trang vải trẻ em không?,handoff,O O O O B-inform#material O O O
+mình vào trang web vẫn nguyên giá,handoff,O O O O O O O
+989110275,handoff,O
+nhưng nếu chị đặt mà ko vừa có đổi dc ko em?,handoff,O O O O O O O O O O O O
+shop mình ở đâu vậy nè,handoff,O O O O O O
+nhanh giúp c với,handoff,O O O O
+gửi c link sản phẩm sale vs,handoff,O O O O O O O
+"giờ gửi được k shop, e tưởng đơn của e k được choits",handoff,O O O O O O O O O O O O O
+xem lại tin nhắn từ năm2016 thấy mình cũng bị bơ luôn,handoff,O O O O O O O O O O O O
+có áp dụng mua online không shop,handoff,O O O O O O O
+đt 0375586013,handoff,O O
+mình ở hà đông. cho mình hỏi chi nhánh nào nhiều đồ của bé trai nhất ạ,handoff,O O B-inform#location I-inform#location O O O O O O O O O B-inform#gender I-inform#gender O O
+"[áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} trắng còn bị ố nữa",handoff,O O O O B-inform#color O O O O
+"mua nguyên set hay [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} ghi lê và [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} không được không",handoff,O O B-inform#object_type O O O O O B-inform#color I-inform#color O O O O O O O O
+shop ơi mình ở cầu giấy và thái hà. shop có đia chỉ nào ở gần 2 khu vực đấy ko ạ.,handoff,O O O O B-inform#location I-inform#location O B-inform#location I-inform#location O O O O O O O O O O O O O
+chính sách ntn,handoff,O O O
+bé nhà mh 6 tuổi 23kg mặc siz mấy bạn,handoff,O O O B-inform#age I-inform#age B-inform#weight O O O O
+bên bạn có cho đổi hàng sale ko,handoff,O O O O O O O O
+"đợt này lâu nhỉ, các con háo hức hỏi suốt - em ơi chưa có ảnh và video các con chụp à",handoff,O O O O O O O O O O O O O O O O O O O O O O
+bên mình còn khẩu trang vải k ạ,handoff,O O O O O B-inform#material O O
+"vậy bạn còn [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} nào đẹp đẹp cho bé gái tầm ấy tuổi ko",handoff,O O O O O O O O O O O B-inform#gender I-inform#gender O O O O
+mình muốn đổi sang size to hơn mà tại cửa hàng đã hết size,handoff,O O O O O O O O O O O O O O
+974556735,handoff,O
+"sao mình tìm mãi kiểu [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} trên ở shopee mà ko thấy",handoff,O O O O O O O O O O O O O O O
+"m mua [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} trắng đồng phục số 8 cho bé gái tại shopee, xong bị nhỏ quá, muốn đổi cỡ 10 shop hỗ trợ giúp m đc kg? cảm ơn sh!",handoff,O O O O O O B-inform#color O O O O O B-inform#gender I-inform#gender O O O O O O O O O O O O O O O O O O O O
+mua 1 đc tặng 1 đúng ko,handoff,O O O O O O O
+tất cả các sp ở shop đều đc sale 50% à bạn,handoff,O O O O O O O O O O O O
+địa chỉ số 39 xóm dịch vụ thôn tảo dương- hồng dương- thanh oai-hn sđt 0975966676.,handoff,O O O O O O O O O O O O O B-inform#location O O
+shop cho hỏi cửa hàng mình ở tầng nào trong trung tâm thương mại the garden hà nội nhỉ,handoff,O O O O O O O O O O O O O O O O B-inform#location I-inform#location O
+chương trình đến ngày mấy hết,handoff,O O O O O O
+giờ chị ck nhé,handoff,O O O O
+"nguyễn thị thu hiền 0987942991\ncông ty tnhh shiseido việt nam \nlô 231-237 đường amata, kcn amata, p. long bình tp biên hoà tỉnh đồng nai - nguyễn duy tú \n0986310607\n1039/49, tổ 8, khu phố 2, phường tân hiệp, biên hoà đồng nai",handoff,O O O O O O O O O O O O O O O O O B-inform#location I-inform#location O B-inform#location I-inform#location O B-inform#location I-inform#location O O O O O O O O O O O O O B-inform#location I-inform#location B-inform#location I-inform#location
+trần bảo anh,handoff,O O O
+"317 lý thường kiệt, đồng hới quảng bình em nhé",handoff,O O O O B-inform#location I-inform#location B-inform#location I-inform#location O O
+để mình chuyển khoản ạ,handoff,O O O O O
+có co giãn ko ạ,handoff,O O O O O
+mẫu kia í,handoff,B-inform#mention I-inform#mention O
+bạn ơi bên mình còn khẩu trang kháng khuẩn trẻ em không,handoff,O O O O O O O O O O O O
+thế những trường hợp nhận tại nhà mất phí cửa hàng đã triển khai chưa ad,handoff,O O O O O O O O O O O O O O O O
+bạn gửi cho mình mẫu các bé mặc đi học ấy vì những bộ này mình mua ở savico long biên rồi bạn,handoff,O O O O O O O O O O O O O B-inform#mention I-inform#mention O O O O B-inform#location I-inform#location O O
+mình xem trên shopee hầu như là quần áo riêng lẻ,handoff,O O O O O O O B-inform#object_type I-inform#object_type O O
+"m đặt mua cho bé 1 [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} nhưng bị chật",handoff,O O O O O O O O O O O O O
+hôm c đăng kí trên mạng mà,handoff,O O O O O O O
+"có [sơ mi]{""entity"": ""inform#object_type"", ""value"": ""ao_so_mi""} cho bé cỡ đó k",handoff,O O O O O O O O O O O
+"xin hỏi em muốn lấy hàng sale bên m với số lượng nhiều, bên mình có thể gửi mẫu em chọn đc ko ạ? đặt trên live ko đặt đc nhiều ạ?",handoff,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+cửa hàng bên bạn ở địa chỉ nào bậy,handoff,O O O O O O O O O
+972086710,handoff,O
+mình đặt hàng online trên web dược k,handoff,O O O O O O O O
+qua mất 10/10 rồi tiếc quá,handoff,O O O O O O
+hoàng thị hồng thôn hai bà trưng xã nam hà huyện lâm hà tỉnh lâm đồng 0396866719,handoff,O O O O O O O O O O O B-inform#location I-inform#location O B-inform#location I-inform#location O
+"em chụp gửi cho chị mầu [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} và [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} chị xem với?",handoff,O O O O O O O O O O O O O O O O O O
+mình muốn tìm mua online mà không thấy trên web hay shoppee,handoff,O O O O O O O O O O O O
+có sản phẩm nào phù hợp ko ạ,handoff,O O O O O O O O
+sz10 cũng hết ạ,handoff,O O O O
+bé nhà c 4 tuổi 14 kg mặc size gì e,handoff,O O O B-inform#age I-inform#age B-inform#weight I-inform#weight O O O O
+chị đăng kí rồi nhưng chưa thấy.,handoff,O O O O O O O
+c liên lạc qua shoppe mà ko thấy trả loqwqif,handoff,O O O O O O O O O O
+cho mình hỏi bên bạn có bộ đồ cho bé gái bằng vải lanh ko,handoff,O O O O O O O O O B-inform#gender I-inform#gender O B-inform#material I-inform#material O
+o cửa hang nào coa ạ,handoff,O O O O O O
+"các bạn k cần bán hàng ah?mình k liên lạc đc bên bạn nên qua cả đội cấn thì đóng cửa hàng, qua trần đăng ninh thì k có mẫu",handoff,O O O O O O O O O O O O O O O O B-inform#location I-inform#location O O O O O B-inform#location I-inform#location I-inform#location O O O O
+2 mẫu này 35 kg 10 tuổi mặc đc k,handoff,O B-inform#mention I-inform#mention B-inform#weight I-inform#weight B-inform#age I-inform#age O O O
+mẫu đỏ có hình tròn ở ngực,handoff,O B-inform#color O O O O O
+c muốn check tại cơ sở đông anh,handoff,O O O O O O B-inform#location I-inform#location
+chi muon hoi ao dai cho be trai,handoff,O O O B-inform#object_type I-inform#object_type O B-inform#gender I-inform#gender
+shopp còn khẩu trang em bé k,handoff,O O O O O O O
+cánh dơi có tháo rời đc ko ạ,handoff,O O O O O O O O
+"[bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} đen cho bé 3 tuổi",inform,O O O O B-inform#color O O B-inform#age I-inform#age
+bé nhà mình 3t 15kg 1m,inform,O O O B-inform#age B-inform#weight B-inform#height
+bé nhà mình nặng 9kg,inform,O O O O B-inform#weight
+size 5t ah,inform,O B-inform#age O
+áo thun bé 5 tuổi dài tay,inform,O O O B-inform#age I-inform#age O O
+"mình xin mẫu [quần áo]{""entity"": ""inform#object_type"", ""value"": ""quan_ao""} cho bé trai 11t 28kg",inform,O O O O O O O O O B-inform#gender I-inform#gender B-inform#age B-inform#weight
+cho c xem cái màu đậm với,inform,O O O O B-inform#color I-inform#color O
+cao 1m47 36kg ak,inform,O B-inform#height B-inform#weight O
+"cao 1,18m nặng 26kg",inform,O B-inform#height O B-inform#weight
+bé nhà mình nặng có 16kg,inform,O O O O O B-inform#weight
+bé nhà mình 8 tuổi nặng 36kg - bé gái e 1.40 29kg,inform,O O O O O O B-inform#weight O O O O B-inform#height B-inform#weight
+bé trai bạn nha,inform,B-inform#gender I-inform#gender O O
+mình muốn mua 3 mẫu này,inform,O O O O O O
+size cho bạn 6t,inform,O O O B-inform#age
+"be cao 73, nabg 9kg",inform,O O O O B-inform#weight
+bé c 6t cao 115cm 21kg,inform,O O B-inform#age O B-inform#height B-inform#weight
+size 6t,inform,O B-inform#age
+cho bé 6 tháng 9kg,inform,O O B-inform#age I-inform#age B-inform#weight
+bé 6 tuổi 15kg chiều cao c chưa đo,inform,O B-inform#age I-inform#age B-inform#weight O O O O O
+cao 96cm,inform,O B-inform#height
+size be 11t,inform,O O B-inform#age
+size 130,inform,O O
+hallowen 13kg,inform,O B-inform#weight
+bé cao 115cm nặng 25kg,inform,O O B-inform#height O B-inform#weight
+"e ơi, chị muốn mua mẫu này size 6 tuổi",inform,O O O O O B-inform#mention I-inform#mention O B-inform#age I-inform#age
+"mình muốn mua 2 [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này cho bé 12kg",inform,O O O O O O O O B-inform#mention O O B-inform#weight
+cao 1m40 - nặng 38kg,inform,O B-inform#height O O B-inform#weight
+"cho m hỏi kiểu váy bé gái bên phải ngoài cùng cho bé nặng 17kg , cao 1,1m",inform,O O O O B-inform#object_type B-inform#gender I-inform#gender O O O O O O O B-inform#weight O O B-inform#height
+17kg cao 105cm,inform,B-inform#weight O B-inform#height
+bé 26kg,inform,O B-inform#weight
+bé 6 tuổi 21kg,inform,O B-inform#age I-inform#age B-inform#weight
+bé trai nhà mình 7 tuổi nhưng nặng 32 kg ca,inform,B-inform#gender I-inform#gender O O B-inform#age I-inform#age O O B-inform#weight I-inform#weight O
+bé 1m2 nặng 28kg,inform,O B-inform#height O B-inform#weight
+"37kg , 1m40",inform,B-inform#weight O B-inform#height
+"bé trai cao 1,4m và nặng 34kg",inform,B-inform#gender I-inform#gender O B-inform#height O O B-inform#weight
+28kg ạ,inform,B-inform#weight O
+nặng 14 kg ạ,inform,O B-inform#weight I-inform#weight O
+tầm 110cm,inform,O B-inform#height
+size 140,inform,O B-inform#height
+bé trai cao 1m43 nặng 30kg e à,inform,B-inform#gender I-inform#gender O B-inform#height O B-inform#weight O O
+25 hay 26kg đều được bạn,inform,B-inform#weight O B-inform#weight O O O
+cho bé 2 tuổi 14kg,inform,O O B-inform#age I-inform#age B-inform#weight
+bé 9t 35 kg,inform,O B-inform#age B-inform#weight I-inform#weight
+đây nhé. bé m 12kg,inform,O O O O B-inform#weight
+bé 1m2 . naăngj 30kg,inform,O B-inform#height O O B-inform#weight
+cao 154 nặng 53kg e ah!,inform,O B-inform#height O B-inform#weight O O
+bé gái tầm 35kg,inform,B-inform#gender I-inform#gender O B-inform#weight
+cho ban 18 đen 20 kg,inform,O O B-inform#weight I-inform#weight I-inform#weight I-inform#weight
+bé cao 1.32 nặng 28kg,inform,O O B-inform#height O B-inform#weight
+"ib chị [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này nhé. bé 36kg",inform,O O O O O O B-inform#mention O O B-inform#weight
+cho bé 6y 22kg,inform,O O B-inform#age B-inform#weight
+"bé 30 tháng nặng 13 - 113,5 kg dao động",inform,O B-inform#age I-inform#age O B-inform#weight I-inform#weight I-inform#weight I-inform#weight O O
+bé nhà c 10 tuổi,inform,O O O B-inform#age I-inform#age
+"bé nặng 13,5kg cao 97cm bạn ạ",inform,O O B-inform#weight O B-inform#height O O
+bạn ơi cho mình một áo dài này cho bé trai ạ,inform,O O O O O B-inform#object_type I-inform#object_type B-inform#mention O B-inform#gender I-inform#gender O
+bé 8 tuổi 30kg,inform,O B-inform#age I-inform#age B-inform#weight
+cao 1m4 nag 35kg,inform,O B-inform#height O B-inform#weight
+size 3-4 tuổi nhé,inform,O B-inform#age I-inform#age O
+"cao 135cm , nặng 35 kg",inform,O B-inform#height O O B-inform#weight I-inform#weight
+size 10 tuổi bé trai,inform,O B-inform#age I-inform#age B-inform#gender I-inform#gender
+"1 bé 25kg , 1 bé 30kg",inform,O O B-inform#weight O O O B-inform#weight
+8kg,inform,B-inform#weight
+bé nhà c cao 100 nặng hơn 12kg,inform,O O O O B-inform#height O O B-inform#weight
+22kg,inform,B-inform#weight
+bé nhà c 4t cao hơn 100cm gì đó,inform,O O O B-inform#age O O B-inform#height O O
+"mình muốn mua [bộ]{""entity"": ""inform#mention"", ""value"": ""bo""} này cho bạn gái 8 tuổi",inform,O O O O O O O B-inform#mention O B-inform#gender I-inform#gender B-inform#age I-inform#age
+mẫu xanh rồng,inform,O B-inform#color I-inform#color
+dạ cân nặng 25.5kg ạ,inform,O O O B-inform#weight O
+nặng 44kg,inform,O B-inform#weight
+"bé thường mua của k's closet rồi. bé cao 126cm , 30kg . bé thường mặc sz 8y-9y",inform,O O O O O O O O O B-inform#height O B-inform#weight O O O O O B-inform#age
+trai 18kg cao 117cm,inform,B-inform#gender B-inform#weight O B-inform#height
+bé nhà mình 3 tuổi 17kg 95cm ạ,inform,O O O B-inform#age I-inform#age B-inform#weight B-inform#height O
+sét này có cho 12 tuổi nặng 60kg ko ạ,inform,B-inform#object_type B-inform#mention O O B-inform#age I-inform#age O B-inform#weight O O
+bạn ý 16-17kg,inform,O O B-inform#weight
+size cho bé 20m 13.5 kg cao 85cm,inform,O O O B-inform#age B-inform#weight I-inform#weight O B-inform#height
+sz 6 bé trai,inform,O O B-inform#gender I-inform#gender
+bé 14kg cao tầm 93cm,inform,O B-inform#weight O O B-inform#height
+bé gái 4 t và trai 8,inform,B-inform#gender I-inform#gender B-inform#age I-inform#age O B-inform#gender B-inform#age
+"c muốn mua [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} cho banh trai 12t",inform,O O O O O O O O B-inform#gender I-inform#gender B-inform#age
+nặng 19kg,inform,O B-inform#weight
+gt giúp m mấy mẫu áo thun hoặc quần short cho bé trai 14kg nhé,inform,O O O O O B-inform#object_type I-inform#object_type O B-inform#object_type I-inform#object_type O B-inform#gender I-inform#gender B-inform#weight O
+nặng 22kg,inform,O B-inform#weight
+bé gai a,inform,B-inform#gender I-inform#gender O
+size cho bé 32kg,inform,O O O B-inform#weight
+bé nhà chị 24kg cao 120cm,inform,O O O B-inform#weight O B-inform#height
+bé nhà c 5 tuổi 19kg thường mặc size 5t nhé,inform,O O O B-inform#age I-inform#age B-inform#weight O O O B-inform#age O
+cho bạn hon 1 tuổi con gái,inform,O O O B-inform#age I-inform#age B-inform#gender I-inform#gender
+1 ban 16 kg,inform,O O B-inform#weight I-inform#weight
+bé nhà chị 1 bạn cao 1m30 nặng 30kg,inform,O O O O O O B-inform#height O B-inform#weight
+"[váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} trên cho bé 5t [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} dưới cho bé 9 t nhé",inform,O O O O O O O B-inform#age O O O O O O O B-inform#age I-inform#age O
+"[áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} cho bé 5t shop ơi",inform,O O O O O O B-inform#age O O
+bé gái 107cm nặng 17kg bé trai 38kg 12 tuổi,inform,B-inform#gender I-inform#gender B-inform#height O B-inform#weight B-inform#gender I-inform#gender B-inform#weight B-inform#age I-inform#age
+"ib [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} này bé gái 10 tuổi 28kg nhé",inform,O O O O O B-inform#mention B-inform#gender I-inform#gender B-inform#age I-inform#age B-inform#weight O
+cao 1.1 năng 27 kg,inform,O B-inform#height O B-inform#weight I-inform#weight
+size cho ng 14 tuổi ạ,inform,O O O B-inform#age I-inform#age O
+"size cho bé 6 tuổi, cao 120, nặng 25kg",inform,O O O O O O O O O
+"shop cho m xin mẫu [áo phông]{""entity"": ""inform#object_type"", ""value"": ""ao_phong""} bé trai tương ứng size 100 với 110 nhé",inform,O O O O O O O O O O B-inform#gender I-inform#gender O O O O O O O
+"mình muốn tìm [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} bé gái 8 tuổi [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} mặc mùa hè thu ko phải áo ấm",inform,O O O O O O O B-inform#gender I-inform#gender B-inform#age I-inform#age O O O O O O O O O O O O
+bé nhà e 14kg cao 97cm ạ,inform,O O O B-inform#weight O B-inform#height O
+may c lấy size 4,inform,O O O O O
+bé 97cm nặng 17kg ạ,inform,O B-inform#height O B-inform#weight O
+bé 105cm 4 tuổi 17kg,inform,O B-inform#height B-inform#age I-inform#age B-inform#weight
+size s và size l,inform,O O O O O
+inbox cho mình mấy bộ bé gái 9 tuổi,inform,O O O O B-inform#object_type B-inform#gender I-inform#gender B-inform#age I-inform#age
+size cho bé gái 5 tuổi,inform,O O B-inform#gender I-inform#gender B-inform#age I-inform#age
+ib giúp chị bé gái 5t 18kg cao 112cm nhé tks,inform,O O O B-inform#gender I-inform#gender B-inform#age B-inform#weight O B-inform#height O O
+bé 21kg 6 tuổi,inform,O B-inform#weight B-inform#age I-inform#age
+1m20 năngj 20-21kg,inform,B-inform#height O B-inform#weight
+khoảng 1m35 25kg ạ,inform,O B-inform#height B-inform#weight O
+15 cân ạ,inform,B-inform#weight I-inform#weight O
+bé cao 125cm nặng 28 kg nhé,inform,O O B-inform#height O B-inform#weight I-inform#weight O
+size 13kg,inform,O B-inform#weight
+"bé nhà c 1,3m nặng 27kg e",inform,O O O B-inform#height O B-inform#weight O
+khoảng 20kg cao hơn 1m10,inform,O B-inform#weight O O B-inform#height
+bé cao 1.4m và nặng 36kg e nhé,inform,O O B-inform#height O O B-inform#weight O O
+bé trai 3y 16 kg bé gái 19 kg 5y,inform,B-inform#gender I-inform#gender B-inform#age B-inform#weight I-inform#weight B-inform#gender I-inform#gender B-inform#weight I-inform#weight B-inform#age
+ib 1 số mẫu áo dài cho mẹ với ạ,inform,O O O O B-inform#object_type I-inform#object_type O O O O
+m hỏi 2 sp này cho bé lớp 3. 42kg,inform,O O O B-inform#mention I-inform#mention O O O O B-inform#weight
+"cháu cao 1.2m nặng 18,5kg",inform,O O B-inform#height O B-inform#weight
+cho m xin vài mẫu quần dài bé trai 9t,inform,O O O O O B-inform#object_type O B-inform#gender I-inform#gender B-inform#age
+1m43 35kg,inform,B-inform#height B-inform#weight
+30kg cao 1.3m e a,inform,B-inform#weight O B-inform#height O O
+cháu nặng 23kg,inform,O O B-inform#weight
+bé 17kg cao 1m,inform,O B-inform#weight O B-inform#height
+chiều cao: 1m40,inform,O O B-inform#height
+khoảng 80cm,inform,O B-inform#height
+bạn cao 1m4 nặng 40 kg bạn à.,inform,O O B-inform#height O B-inform#weight I-inform#weight O O
+"cho bé 3,5 tuổi ak",inform,O O B-inform#age I-inform#age O
+"[chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} size 7",inform,O O O O O O O
+mình muốn mua ol 2 bộ này,inform,O O O O O B-inform#mention I-inform#mention
+size 11 kg,inform,O B-inform#weight I-inform#weight
+set nay bé 2 tuổi,inform,B-inform#object_type B-inform#mention O B-inform#age I-inform#age
+size cho bạn gái 28kg-29kg cao 1m3,inform,O O B-inform#gender I-inform#gender B-inform#weight O B-inform#height
+nặng 23 kg,inform,O B-inform#weight I-inform#weight
+sz bé 113cm 19kg,inform,O O B-inform#height B-inform#weight
+13kg,inform,B-inform#weight
+size bé 10 ký cao 86cm nha em,inform,O O B-inform#weight I-inform#weight O B-inform#height O O
+"thế cho chị hỏi mấy mẫu [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} dài tay cho bạn tầm 6y",inform,O O O O O O O O O O O O O O O B-inform#age
+bé nhà e cao 80cm nặng 11kg ak,inform,O O O O B-inform#height O B-inform#weight O
+bé nhà mình cao 135 nặng 30kg,inform,O O O O B-inform#height O B-inform#weight
+4.5t nam 16kg 26kg 8.5 tuổi nữ,inform,B-inform#age B-inform#gender B-inform#weight B-inform#weight B-inform#age I-inform#age B-inform#gender
+"vâng, bé cao 1m06\nnặng 19kg - bé 9m khoảng 8,5 kg em à",inform,O O O B-inform#height B-inform#weight O O B-inform#height O B-inform#height I-inform#height O O
+bé nhà mình 6 tuổi rồi,inform,O O O B-inform#age I-inform#age O
+"cho mình hỏi bộ này cho bé 14kg , 96cm",inform,O O O B-inform#object_type B-inform#mention O O B-inform#weight O B-inform#height
+"cao khoảng 90cm , nặng 12kg , bé gái",inform,O O B-inform#height O O B-inform#weight O B-inform#gender I-inform#gender
+trẻ 7 tháng 10kg,inform,O B-inform#age I-inform#age B-inform#weight
+size 5 thôi em,inform,O O O O
+mình tính 110cm là đã tính dài hơn chiều cao của bé rồi,inform,O O B-inform#height O O O O O O O O O O
+bé 90cm nặng 13kg ạ,inform,O B-inform#height O B-inform#weight O
+"cao khoảng 1,2m nặng 21kg - 30kg 7 tuổi cao khoảng 140cm thôi",inform,O O B-inform#height O B-inform#weight O B-inform#weight B-inform#age I-inform#age O O B-inform#height O
+bé nhà mình cao 1m05 nặng 17kg,inform,O O O O B-inform#height O B-inform#weight
+set dưới này cho bé 20 kg,inform,B-inform#object_type O O O O B-inform#weight I-inform#weight
+bé 28kg e,inform,O B-inform#weight O
+"m muốn hỏi [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} này của bạn 7 tuổi 24kg",inform,O O O O O O O B-inform#mention O O B-inform#age I-inform#age B-inform#weight
+cao 1m1,inform,O B-inform#height
+cao 1m53,inform,O B-inform#height
+bé 21kg,inform,O B-inform#height
+bé nhà mình nặng 28kg,inform,O O O O B-inform#weight
+bé nhà chị 6 tuổi nặng 17 kg,inform,O O O B-inform#age I-inform#age O B-inform#weight I-inform#weight
+bé 26kg cao 98cm,inform,O B-inform#weight O B-inform#height
+bé cao 135 nặng 30kg shop,inform,O O O O B-inform#weight O
+cho m xin mẫu quần bò cho bé gái 6 tuổi 20 cân ạ,inform,O O O O B-inform#object_type I-inform#object_type O B-inform#gender I-inform#gender B-inform#age I-inform#age B-inform#weight I-inform#weight O
+"bé nhà mình 28 tháng\ncân nặng 14,5kg\nchiều cao 90cm",inform,O O O B-inform#age I-inform#age O B-inform#weight O B-inform#height
+bé 3.5y 14kg 94cm c ạ,inform,O B-inform#age B-inform#weight B-inform#height O O
+mình muốn mua khẩu trang,inform,O O O O O
+32kg 133cm bạn nhé,inform,B-inform#weight B-inform#height O O
+size 2t,inform,O B-inform#age
+size 30kg nhé,inform,O B-inform#weight O
+còn 1 bé cao khoảng 90cm,inform,O O O O O B-inform#height
+"[bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} màu xanh",inform,O O O O B-inform#color I-inform#color
+cao 96cm và nặng 14kg ah,inform,O B-inform#height O O B-inform#weight O
+7kg ạ,inform,B-inform#weight O
+bé mình cao 1m35 nặng 32kg,inform,O O O B-inform#height O B-inform#weight
+sz bé trai 14kg,inform,O B-inform#gender I-inform#gender B-inform#weight
+bé gái nha,inform,B-inform#gender I-inform#gender O
+bé nặng 30kg và cao khoảng 1m35,inform,O O B-inform#weight O O O B-inform#height
+40kg cao 1m50 em nhé,inform,B-inform#weight O B-inform#height O O
+"1 bé 7 tuổi cao 1m3 nặng 26kg , 1 bé 6 tuổi cao 1m2 nặng 20kg",inform,O O B-inform#age I-inform#age O B-inform#height O B-inform#weight O O O B-inform#age I-inform#age O B-inform#height O B-inform#weight
+"bé 20kg và 6,5 tuổi",inform,O B-inform#weight O B-inform#age I-inform#age
+bé 8t nặng 25kg cao 1.3,inform,O B-inform#age O B-inform#weight O B-inform#height
+bé gái 8 tuổi 133cm 25 kg,inform,B-inform#gender I-inform#gender B-inform#age I-inform#age B-inform#height B-inform#weight I-inform#weight
+chào shop cho mình hỏi cho bé gái 150,inform,O O O O O O B-inform#gender I-inform#gender O
+sz 14kg và 18kg,inform,O B-inform#weight O B-inform#weight
+30kg 1m27,inform,B-inform#weight B-inform#height
+quần áo thì size vừa với bé 15kg,inform,O O O O O O O B-inform#weight
+"nặng 40kg cao 1,3m",inform,O B-inform#weight O B-inform#height
+bé nhà mh cao 95 nặng 15kg,inform,O O O O B-inform#height O B-inform#weight
+bé nhà c hơn 4t 19.5kg rồi,inform,O O O O B-inform#age B-inform#weight O
+bạn 1m60 và 45kg em ơi,inform,O B-inform#height O B-inform#weight O O
+bé cao 1m39 nặng 37kg,inform,O O B-inform#height O B-inform#weight
+ib đồ bé gái 30 kg,inform,O O B-inform#gender I-inform#gender B-inform#weight I-inform#weight
+36kg nhưng cao 150cm rồi bạn,inform,B-inform#weight O O B-inform#height O O
+bé nhà e cao m1 21kg ạ,inform,O O O O B-inform#height B-inform#weight O
+bạn ý 25kg cao 128cm,inform,O O B-inform#weight O B-inform#height
+15kg ạ,inform,B-inform#weight O
+bé 26kg cao khoảng 120,inform,O B-inform#weight O O B-inform#height
+bé nhà mình cao 93cm nặng 16kg,inform,O O O O B-inform#height O B-inform#weight
+môt ban 20 kg,inform,O O B-inform#weight I-inform#weight
+còn size cho bé 15 và 29kg k?,ask_availability#size,O O O O O O B-inform#weight O
+áo này còn size 4-5y ko shop,ask_availability#size,B-inform#object_type B-inform#mention O O B-inform#age O O
+"những [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này còn size cho bé 7 tuổi ko vậy a",ask_availability#size,O O O O O B-inform#mention O O O O B-inform#age I-inform#age O O O
+set này còn size 9t k ạ,ask_availability#size,O B-inform#mention O O B-inform#age O O
+2 áo này còn size cho bé 20kg ko ạ,ask_availability#size,O B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+shop ơi quần này còn size 7 k ạ,ask_availability#size,O O B-inform#object_type B-inform#mention O O O O O
+mẫu này còn size 3 và 6 bạn,ask_availability#size,B-inform#mention I-inform#mention O O B-inform#age O B-inform#age O
+"bạn ơi bộ này còn sz cho bé 1m 17,5kg ko ạ",ask_availability#size,O O B-inform#object_type B-inform#mention O O O O B-inform#height B-inform#weight O O
+"2 mẫu này còn size 3 tuổi 13,5kg ko em",ask_availability#size,O B-inform#mention I-inform#mention O O B-inform#age I-inform#age B-inform#age O O
+2 bo nay con size 150 ko e,ask_availability#size,O B-inform#object_type B-inform#mention O O O O O
+"2 [sét]{""entity"": ""inform#object_type"", ""value"": ""set""} này còn size bé 22kg không shop",ask_availability#size,O O O O O B-inform#mention O O O B-inform#weight O O
+mấy mẫu này còn size cho bé 13 tháng k shop,ask_availability#size,O B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age O O
+mẫu này con sz 8y k shop,ask_availability#size,B-inform#mention I-inform#mention O O B-inform#age O O
+còn bộ này sz bé 15kg k b ơi,ask_availability#size,O B-inform#object_type B-inform#mention O O B-inform#weight O O O
+cho e hỏi những mẫu nay còn size cho bé 32kg 9tuooi k ạ,ask_availability#size,O O O O B-inform#mention I-inform#mention O O O O B-inform#weight B-inform#age O O
+còn sz bé 17kg 102 cm ko b,ask_availability#size,O O O B-inform#weight B-inform#height I-inform#height O O
+3mẫu này còn sz cho bé 5-6 t ko ag,ask_availability#size,B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age O O
+shop còn bộ halowen) cướp biển size 6 ko,ask_availability#size,O O B-inform#object_type B-inform#season O O O O O
+những mẫu này còn size cho bé 2year k sh,ask_availability#size,O B-inform#mention I-inform#mention O O O O B-inform#age O O
+còn size cho bé 10 tuổi không bạn,ask_availability#size,O O O O B-inform#age I-inform#age O O
+mấy mẫu này bên b còn size cho bạn 7t k ah,ask_availability#size,O B-inform#mention I-inform#mention O O O O O O B-inform#age O O
+shop ơi cho mình hỏi set này cả quần áo còn size cho bé 13kg 2.5 tuổi ko ạ,ask_availability#size,O O O O O B-inform#object_type B-inform#mention O B-inform#object_type B-inform#object_type O O O O B-inform#age B-inform#age I-inform#age O O
+bộ này còn size 4 tuổi ko ạ,ask_availability#size,B-inform#object_type B-inform#mention O O B-inform#age I-inform#age O O
+"set này còn sz cho bé 9t k sh, 27kg",ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#age O O B-inform#weight
+váy còn sz 9-10y ko b,ask_availability#size,B-inform#object_type O O B-inform#age O O
+mẫu này còn size cho con 25kg cao 1m20 ko shop,ask_availability#size,B-inform#mention I-inform#mention O O O O B-inform#weight O B-inform#height O O
+set này còn sz cho bé 6t 22kg ko b,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#age B-inform#weight O O
+"[áo dạ]{""entity"": ""inform#object_type"", ""value"": ""ao_da""} màu hồng size 9 còn k ạ",ask_availability#size,O O O O O B-inform#color I-inform#color O O O O O
+còn size cho be 20kg ko,ask_availability#size,O O O O B-inform#weight O
+mẫu này còn sz 9 or 10 ko ạ,ask_availability#size,B-inform#mention I-inform#mention O O O O O O O
+váy này còn size từ 22-24kg k ạ,ask_availability#size,B-inform#object_type B-inform#mention O O O B-inform#weight O O
+còn size áo dài kèm quần cho bé gái 13kg k shop,ask_availability#size,O O B-inform#object_type I-inform#object_type O B-inform#object_type O B-inform#gender I-inform#gender B-inform#weight O O
+bn còn sz 4t k ạ,ask_availability#size,O O O B-inform#age O O
+mấy áo này shop còn size 3-4y k,ask_availability#size,O B-inform#object_type B-inform#mention O O O B-inform#age O
+xem giúp mình set này còn size cho bạn nhỏ 41kg 9t ko shop?,ask_availability#size,O O O B-inform#object_type B-inform#mention O O O O O B-inform#weight B-inform#age O O
+mẫu này còn ko shop ơi \nsize bé lớp 2 20kg ạ,ask_availability#size,B-inform#mention I-inform#mention O O O O O O O O B-inform#weight O
+áo dài nam bên mình còn size 38kg ko,ask_availability#size,B-inform#object_type I-inform#object_type B-inform#gender O O O O B-inform#weight O
+bộ này còn sz 2 ko shop,ask_availability#size,B-inform#object_type B-inform#mention O O O O O
+váy này con size 120 k ạ,ask_availability#size,B-inform#object_type B-inform#mention O O O O O
+"[váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} này con size ko e",ask_availability#size,O O O O B-inform#mention O O O O
+"mẫu [áo khoác]{""entity"": ""inform#object_type"", ""value"": ""ao_khoac""} và quần còn sai 150 ko",ask_availability#size,O O O O O O O B-inform#object_type O O O O
+shop còn áo này sz 19kg và 35kg 9 tuổi k ạ,ask_availability#size,O O B-inform#object_type B-inform#mention O B-inform#weight O B-inform#weight B-inform#age I-inform#age O O
+còn sz 100 k shop,ask_availability#size,O O O O O
+shop ơi màu này còn sz 8 tuổi và 3 tuổi 16kg ko,ask_availability#size,O O O B-inform#mention O O B-inform#age I-inform#age O B-inform#age I-inform#age B-inform#weight O
+e ơi quần yếm còn size cho bé từ 11-14kg k e,ask_availability#size,O O B-inform#object_type I-inform#object_type O O O O O B-inform#weight O O
+mẫu này còn size cho bé 110cm k ạ,ask_availability#size,B-inform#mention I-inform#mention O O O O B-inform#height O O
+"cho c hỏi áo này còn sz 8, 9 k?",ask_availability#size,O O O B-inform#object_type B-inform#mention O O O O O
+còn size k,ask_availability#size,O O O
+bộ này còn size 10_11tuoi ko shop,ask_availability#size,B-inform#object_type B-inform#mention O O B-inform#age O O
+cho mình hỏi shop còn áo này sz 38kg ko vậy,ask_availability#size,O O O O O B-inform#object_type B-inform#mention O B-inform#weight O O
+cho m hỏi áo này còn sz 4y ko,ask_availability#size,O O O B-inform#object_type B-inform#mention O O B-inform#age O
+áo bé gái còn size cho bạn 7 tuổi ko ạ,ask_availability#size,B-inform#object_type B-inform#gender I-inform#gender O O O O B-inform#age I-inform#age O O
+co size cho con trai 7 tuoi 20kg khong?,ask_availability#size,O O O O O B-inform#age I-inform#age B-inform#weight O
+shop còn váy này sz 24m k ạ,ask_availability#size,O O B-inform#object_type B-inform#mention O B-inform#age O O
+2 mẫu này còn size 4tuoi ko?,ask_availability#size,O B-inform#mention I-inform#mention O O B-inform#age O
+bộ này còn sz cho bé 9 tuổi k,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O
+m muốn hỏi váy này sz 5y còn k ạ,ask_availability#size,O O O B-inform#object_type B-inform#mention O B-inform#age O O O
+mẫu này còn size cho bé 36 kg k e,ask_availability#size,B-inform#mention I-inform#mention O O O O B-inform#weight I-inform#weight O O
+ba mẫu này còn sz 140 ko shop?,ask_availability#size,O B-inform#mention I-inform#mention O O O O O
+bên mình còn áo này size cho bé 35 kg ko,ask_availability#size,O O O B-inform#object_type B-inform#mention O O O B-inform#weight I-inform#weight O
+mẫu này còn size cho bé trai 28kg ko ạ,ask_availability#size,B-inform#mention I-inform#mention O O O O O B-inform#weight O O
+shop còn size k ạ,ask_availability#size,O O O O O
+set này còn size cho bé 5 tuổi k bạn?,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O
+còn size chị bé 30kg học lớp 2 ko ạ,ask_availability#size,O O O O B-inform#weight O O O O O
+còn size 20kg ko???,ask_availability#size,O O B-inform#weight O
+còn sz 8 tuoiir ko ạ,ask_availability#size,O O B-inform#age I-inform#age O O
+áo này còn size bé 8y ko ah?,ask_availability#size,B-inform#object_type B-inform#mention O O O B-inform#age O O
+"shop ơi, áo này còn size 110 ko",ask_availability#size,O O B-inform#object_type B-inform#mention O O O O
+"cho e hỏi bên mình còn [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} này size 7 tuổi ko ạ?",ask_availability#size,O O O O O O O O O O B-inform#mention O B-inform#age I-inform#age O O
+3 set này còn size cho bé cao 100cm nặng 15kg hơn 3 tuổi k ạ?,ask_availability#size,O B-inform#object_type B-inform#mention O O O O O B-inform#height O B-inform#weight O B-inform#age I-inform#age O O
+còn size 6 ko shop,ask_availability#size,O O O O O
+còn size 4 ko e ơi?,ask_availability#size,O O O O O O
+bộ hiệp sĩ mèo còn size k ạ,ask_availability#size,B-inform#object_type O O O O O O O
+set này còn size cho bé 3 tuổi k b,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O
+cho mình hỏi váy này còn size cho bạn cao 1m52 nặng 38kg không,ask_availability#size,O O O B-inform#object_type B-inform#mention O O O O O B-inform#height O B-inform#weight O
+"[áo sơ mi]{""entity"": ""inform#object_type"", ""value"": ""ao_so_mi""} này còn size 3 tuổi ko shop?",ask_availability#size,O O O O O O B-inform#mention O O B-inform#age I-inform#age O O
+set gile này còn size 3y ko ạ?,ask_availability#size,B-inform#object_type I-inform#object_type B-inform#mention O O B-inform#age O O
+set nay m con size 5 ko e,ask_availability#size,O O O O O O O O
+"shop còn [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này sz hơn 3t 15 kg k ạ",ask_availability#size,O O O O O O B-inform#mention O O B-inform#age B-inform#weight I-inform#weight O O
+"những [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} này còn size 3 tuổi k ạ?",ask_availability#size,O O O O O B-inform#mention O O B-inform#age I-inform#age O O
+còn sz 4t k shop,ask_availability#size,O O B-inform#age O O
+cái này còn size 17kg 4 tuổi k bạn,ask_availability#size,B-inform#mention I-inform#mention O O B-inform#weight B-inform#age I-inform#age O O
+áo này còn size cho bé 15kg nữa k ah,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O O
+be hoc lớp 5 con sz k a,ask_availability#size,O O O O O O O O
+mẫu này mình còn size 9 ko em,ask_availability#size,B-inform#mention I-inform#mention O O O O O O
+còn sz cho bé 6 tuổi 20kg k shop,ask_availability#size,O O O O B-inform#age I-inform#age B-inform#weight O O
+"b còn [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này sz 14kg 3y ko",ask_availability#size,O O O O O O B-inform#mention O B-inform#weight B-inform#age O
+bộ này còn sz cho bé 1m43 43 kg k shop?,ask_availability#size,B-inform#object_type B-inform#mention O O O O B-inform#height B-inform#weight I-inform#weight O O
+"hi shop ơi, bộ này còn size cho bé 3.5 tuổi nặng 17kg ko ạ?",ask_availability#size,O O O B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O B-inform#weight O O
+mẫu này sz lớn nhất còn ko shop ơi?,ask_availability#size,B-inform#mention I-inform#mention O O O O O O O
+còn áo dài này size 16kg 3 tuổi k shop,ask_availability#size,O B-inform#object_type I-inform#object_type B-inform#mention O B-inform#weight B-inform#age I-inform#age O O
+2 mẫu này còn sz 8y ko shop?,ask_availability#size,O B-inform#mention I-inform#mention O O B-inform#age O O
+"bạn ơi. quần này còn sz cho bé 4,5 tuổi ko ạ?",ask_availability#size,O O B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O
+add còn sz cho bé 5tuoi 19kg ko add,ask_availability#size,O O O O O B-inform#age B-inform#weight O O
+áo dài này còn sz của bạn 22kg k bạn,ask_availability#size,B-inform#object_type I-inform#object_type B-inform#mention O O O O B-inform#weight O O
+còn size 140 k b,ask_availability#size,O O O O O
+c ơi cho em hỏi chút áo này còn sz 130k c,ask_availability#size,O O O O O O B-inform#object_type B-inform#mention O O O O
+áo còn size cho gái 6y 26kg ko e?,ask_availability#size,B-inform#object_type O O O O B-inform#age B-inform#weight O O
+2 mẫu này còn sz cho bé 9 tuổi k ạ,ask_availability#size,O B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age O O
+bên m còn bộ này size cho bé 23kg ko bạn,ask_availability#size,O O O B-inform#object_type B-inform#mention O O O B-inform#weight O O
+còn sz cho bạn 20kg và 37kg ko,ask_availability#size,O O O O B-inform#weight O B-inform#weight O
+shop còn size cho bé 10 tuổi cao 1m38 nặng 38kg ko ạ.,ask_availability#size,O O O O O B-inform#age I-inform#age O B-inform#height O B-inform#weight O O
+con size cho be 22kg ko shop,ask_availability#size,O O O O B-inform#weight O O
+mấy mẫu này còn size 6-8y ko e,ask_availability#size,O B-inform#mention I-inform#mention O O B-inform#age O O
+"[bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này giá bnhieu vậy shop",request#price,O O O O B-inform#mention O O O O
+cho mình xin giá nữa nhé,request#price,O O O O O O
+sp nay bao nhiu b?,request#price,B-inform#mention I-inform#mention O O O
+vay hong gia bn a,request#price,B-inform#object_type B-inform#color O O O
+váy này bao nhiêu vậy,request#price,B-inform#object_type B-inform#mention O O O
+váy này giá bn vậy ah,request#price,B-inform#object_type B-inform#mention O O O O
+bộ này bn vay shop,request#price,B-inform#object_type B-inform#mention O O O
+cho m hỏi áo này bn ah,request#price,O O O B-inform#object_type B-inform#mention O O
+cho mình hỏi giá của set nay voi ah,request#price,O O O O O B-inform#object_type B-inform#mention O O
+báo giá m các áo sau,request#price,O O O O B-inform#object_type O
+cả sét còn bnhiu shop,request#price,O B-inform#object_type O O O
+mẫu này bao nhiêu,request#price,B-inform#mention I-inform#mention O O
+bộ có giá bao nhiêu,request#price,B-inform#object_type O O O O
+ib c giá nhé,request#price,O O O O
+phiền ad báo m giá set này,request#price,O O O O O B-inform#object_type B-inform#mention
+cho mình xin giá cá sp trên nhé,request#price,O O O O O O O O
+bộ này bnhiu ha shop,request#price,B-inform#object_type B-inform#mention O O O
+có giá bao nhiêu ạ,request#price,O O O O O
+ao nay bao nhiêu shop,request#price,B-inform#object_type B-inform#mention O O O
+set này bn b ơi,request#price,B-inform#object_type B-inform#mention O O O
+set này bn s,request#price,B-inform#object_type B-inform#mention O O
+"[yếm]{""entity"": ""inform#object_type"", ""value"": ""yem""} bn đó e",request#price,O O O O O O O
+set này bao tiền vậy shop?,request#price,B-inform#object_type B-inform#mention O O O O
+bộ này bn ạ,request#price,B-inform#object_type B-inform#mention O O
+váy này giảm còn bao nhiêu,request#price,B-inform#object_type B-inform#mention O O O O
+"[váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} này giá ntn b",request#price,O O O O B-inform#mention O O O
+bn tiền ạ,request#price,O O O
+cho m xin giá 2 set này,request#price,O O O O O B-inform#object_type B-inform#mention
+cho c giá mấy bộ halloween cho bé trai,request#price,O O O O B-inform#object_type O O B-inform#gender I-inform#gender
+váy này giá bao nhiêu thế ạ,request#price,B-inform#object_type B-inform#mention O O O O O
+shop ơi cho mình hỏi bộ cướp biển bao nhiêu tiền?,request#price,O O O O O B-inform#object_type O O O O O
+áo bn b,request#price,B-inform#object_type O O
+áo này bao nhiêu bạn,request#price,B-inform#object_type B-inform#mention O O O
+cho mình xin giá luôn nhé,request#price,O O O O O O
+bn shop,request#price,O O
+"cho mình xin giá [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} bé gái nhé",request#price,O O O O O O O O O O O O B-inform#gender I-inform#gender O
+"bạn ơi, set này giá bao nhiêu vậy?",request#price,O O B-inform#object_type B-inform#mention O O O O
+sét này giá bao nhiu vậy em?,request#price,B-inform#object_type B-inform#mention O O O O O
+áo này bn vậy shop,request#price,B-inform#object_type B-inform#mention O O O
+set này bao nhiêu bạn nhỉ,request#price,B-inform#object_type B-inform#mention O O O O
+c xin giá set này,request#price,O O O B-inform#object_type B-inform#mention
+báo giá mình set này với,request#price,O O O B-inform#object_type B-inform#mention O
+báo giá cho c nhé,request#price,O O O O O
+sét này giá bn ạ?,request#price,B-inform#object_type B-inform#mention O O O
+mình xin giá 2 set này ạ,request#price,O O O O B-inform#object_type B-inform#mention O
+cho mình xin giá bộ này với bạn,request#price,O O O O B-inform#object_type B-inform#mention O O
+váy giá nhiêu ah,request#price,O O O O
+hộp bao nhiêu em,request#price,B-inform#mention O O O
+mẫu này sale còn bao nhiêu,request#price,B-inform#mention I-inform#mention O O O O
+cho mình xin giá 2 sét này,request#price,O O O O O B-inform#object_type B-inform#mention
+cho e giá shop ơi,request#price,O O O O O
+"bạn ơi, báo giá cho m mẫu này nhé!",request#price,O O O O O O B-inform#mention I-inform#mention O
+cho mình xin giá bộ này shop ơi,request#price,O O O O B-inform#object_type B-inform#mention O O
+"[chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} này bnhieu add",request#price,O O O O O B-inform#mention O O
+"k's cho xin giá [váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} này ạ",request#price,O O O O O O O O B-inform#mention O
+e xin giá các bộ này ạ,request#price,O O O O B-inform#object_type B-inform#mention O
+set cướp biển size 4 tuổi giá bnhiu ạ,request#price,O O O O B-inform#age I-inform#age O O O
+mình xin giá set này,request#price,O O O B-inform#object_type B-inform#mention
+set này giá bn hả shop ơi,request#price,B-inform#object_type B-inform#mention O O O O O
+2 set nay bn a.,request#price,O B-inform#object_type B-inform#mention O O
+ib mình giá 2 set này với,request#price,O O O O B-inform#object_type B-inform#mention O
+bộ này bnhiu ạ,request#price,B-inform#object_type B-inform#mention O O
+set này giá bnhieu ạ,request#price,B-inform#object_type B-inform#mention O O O
+cho. m xin giá ạ,request#price,O O O O O
+set này giá bn shop,request#price,B-inform#object_type B-inform#mention O O O
+mình xin giá 3 mẫu này nhé,request#price,O O O O B-inform#mention I-inform#mention O
+bao gia minh 2 set nay vs ạ,request#price,O O O O B-inform#object_type B-inform#mention O O
+bn ah,request#price,O O
+giá sao shop,request#price,O O O
+cho ch xin giá 2 bộ này,request#price,O O O O O B-inform#object_type B-inform#mention
+bộ này giá bn em ơi,request#price,B-inform#object_type B-inform#mention O O O O
+set unicorn bao nhiêu tiền vâny shop,request#price,B-inform#object_type O O O O O O
+cho minh xin gia 2 set nay ạ,request#price,O O O O O B-inform#object_type B-inform#mention O
+mình xin giá set này nhé,request#price,O O O B-inform#object_type B-inform#mention O
+cho m xin giá váy này,request#price,O O O O B-inform#object_type B-inform#mention
+set này bao nhiêu ạ,request#price,B-inform#object_type B-inform#mention O O O
+shop ơi set ma cà rồng bn vậy,request#price,O O B-inform#object_type O O O O O
+xin giá cá sp này ạ,request#price,O O O B-inform#mention I-inform#mention O
+"[quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} giá bn b",request#price,O O O O O O O
+"cho m xin giá [bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này với",request#price,O O O O O O O O B-inform#mention O
+báo giá mình set này,request#price,O O O B-inform#object_type B-inform#mention
+2 set này giá bn ạ,request#price,O B-inform#object_type B-inform#mention O O O
+bộ này sale còn bnh b,request#price,B-inform#object_type B-inform#mention O O O O
+shop cho mình xin giá bộ này,request#price,O O O O O B-inform#object_type B-inform#mention
+cho giá với,request#price,O O O
+set này bn shop,request#price,B-inform#object_type B-inform#mention O O
+bộ này giá bao nhiêu ạ,request#price,B-inform#object_type B-inform#mention O O O O
+cho mình hỏi giá bộ váy này,request#price,O O O O O B-inform#object_type B-inform#mention
+"mình xin giá 2 mẫu [quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} này",request#price,O O O O O O O O O B-inform#mention
+set này bn ạ,request#price,B-inform#object_type B-inform#mention O O
+gia bao nhiêu,request#price,O O O
+váy maleficent bn vậy ạ,request#price,B-inform#object_type O O O O
+set nay bao nhiêu shop,request#price,B-inform#object_type B-inform#mention O O O
+"[bộ]{""entity"": ""inform#object_type"", ""value"": ""bo""} này sale còn bn ạ",request#price,O O O O B-inform#mention O O O O
+co size cho be 12-18 thang ko a,ask_if_sells#size,O O O O B-inform#age I-inform#age O O
+2 mẫu này có size cho bạn 14 tuổi ko bạn,ask_if_sells#size,O B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age O O
+bộ này có sz cho 19 kg 1m20 k shop,ask_if_sells#size,B-inform#object_type B-inform#mention O O O B-inform#weight I-inform#weight B-inform#height O O
+bộ này có size cho bé 11 tuổi 35 kh ko bạn!,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O O O
+2 bộ này có sz 8 tuổi nặng 32 kg ko,ask_if_sells#size,O B-inform#object_type B-inform#mention O O B-inform#age I-inform#age O B-inform#weight I-inform#weight O
+bộ này có size cho bé 22kg cao 116cm ko shop?,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O B-inform#height O O
+"[áet]{""entity"": ""inform#object_type"", ""value"": ""set""} này có sz 1y k s",ask_if_sells#size,O O O O B-inform#mention O O B-inform#age O O
+"cho m hỏi [vây]{""entity"": ""inform#object_type"", ""value"": ""vay""} này có sz cho bé 37kg m4 ko shop?",ask_if_sells#size,O O O O O O O B-inform#mention O O O O B-inform#weight B-inform#height O O
+bộ này có sz cho bạn 40kg k sh,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+"[áo khoác]{""entity"": ""inform#object_type"", ""value"": ""ao_khoac""} này có size 12t cao 1.5 nặng 44kg ko em:",ask_if_sells#size,O O O O O B-inform#mention O O B-inform#age O B-inform#height O B-inform#weight O O
+áo này có sz 4y ko em,ask_if_sells#size,B-inform#object_type B-inform#mention O O B-inform#age O O
+23kg có sai không shop,ask_if_sells#size,B-inform#weight O O O O
+bộ này có size cho bé 15kg k ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#mention O O
+"có sai cho bé 8 tuổi 39 kg cao 1,30cm kg sop?",ask_if_sells#size,O O O O B-inform#age I-inform#age B-inform#weight I-inform#weight O B-inform#height O O
+có size cho bé 7 tuổi 28kg ko,ask_if_sells#size,O O O O B-inform#age I-inform#age B-inform#weight O
+bo nay co sz 105cm 18kg k ha em,ask_if_sells#size,B-inform#object_type B-inform#mention O O B-inform#height B-inform#weight O O O
+có size bé 40kg ko e,ask_if_sells#size,O O O B-inform#weight O O
+"[yếm]{""entity"": ""inform#object_type"", ""value"": ""yem""} này có sz cho bé nặng 32kg cao 1m42 ko shop",ask_if_sells#size,O O O O B-inform#mention O O O O O B-inform#weight O B-inform#height O O
+có size bé 8 tuổi m25 nặng 25kg,ask_if_sells#size,O O O B-inform#age I-inform#age B-inform#height O B-inform#weight
+"có sizecho bé 25kg cao 1,25m ko shop",ask_if_sells#size,O O O B-inform#weight O B-inform#height O O
+"có [gile]{""entity"": ""inform#object_type"", ""value"": ""bo_gile""} size 9 tuổi ko shop",ask_if_sells#size,O O O O O O B-inform#mention I-inform#mention O O
+bạn có sz 12 k bạn,ask_if_sells#size,O O O O O O
+bộ này có size cho bé 25kg 7 tuổi ko bạn,ask_if_sells#size,B-inform#object_type B-inform#height O O O O B-inform#weight B-inform#age I-inform#age O O
+có sz cho bé 12-13kg k e,ask_if_sells#size,O O O O B-inform#weight O O
+có size cho bé 4 tuổi k ạ,ask_if_sells#size,O O O O B-inform#age I-inform#age O O
+có sz cho béc30kg k,ask_if_sells#size,O O O B-inform#weight O
+có size bé 11kg k ạ 21m,ask_if_sells#size,O O O B-inform#weight O O B-inform#age
+"b ơi 2 [váy]{""entity"": ""inform#age"", ""value"": ""vay""} này có sz 2t hoặc 3t k ạ",ask_if_sells#size,O O O O O O O B-inform#mention O O B-inform#age O B-inform#age O O
+cho m hỏi mẫu này có size tầm 1m55 đến 1m6 ko,ask_if_sells#size,O O O B-inform#mention I-inform#mention O O O B-inform#height O B-inform#height O
+có size bé 3 tuổi và 8 tuổi k,ask_if_sells#size,O O O B-inform#age I-inform#age O B-inform#age I-inform#age O
+"cho m hỏi váy dài tay có size bạn cao 1,45m ko",ask_if_sells#size,O O O B-inform#object_type O O O O O O B-inform#height O
+co size cho be 36 kg k b,ask_if_sells#size,O O O O B-inform#weight I-inform#weight O O
+màu tím có size 54kg k,ask_if_sells#size,B-inform#color I-inform#color O O B-inform#weight O
+"có [áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} size bé 32kg ko",ask_if_sells#size,O O O O O O O B-inform#weight O
+bộ này có size cho bạn 10 tuổi k ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O
+váy hồng có size 6t k,ask_if_sells#size,B-inform#object_type B-inform#color O O B-inform#age O
+bộ này có size cho bạn 9 tuổi không?,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O
+bên e có size cho bé 43 ký ko vậy,ask_if_sells#size,O O O O O O B-inform#weight I-inform#weight O O
+có size cho bé 30 kí ko bạn,ask_if_sells#size,O O O O B-inform#weight I-inform#weight O O
+bộ này có sz cho bạn 11t 40kg ko,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age B-inform#weight O
+có size cho b 25kg ko,ask_if_sells#size,O O O O B-inform#weight O
+2 mẫu này có sz cho bạn 7t 23kg k shop,ask_if_sells#size,O B-inform#mention I-inform#mention O O O O B-inform#age B-inform#weight O O
+co sz be 1.5 tuoi kg,ask_if_sells#size,O O O B-inform#age I-inform#age O
+shop ơi mấy mẫu này có sz cho b 9t ko b,ask_if_sells#size,O O O B-inform#mention I-inform#mention O O O O B-inform#age O O
+có size 35kg k ah,ask_if_sells#size,O O B-inform#weight O O
+mẫu này có size cho bé 10-11 tuổi ko ạ,ask_if_sells#size,B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age O O
+áo có size cho bé 38kg ko bạn,ask_if_sells#size,B-inform#object_type O O O O B-inform#weight O O
+"[chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} này có sz 40kg ko shop",ask_if_sells#size,O O O O O B-inform#mention O O B-inform#weight O O
+mẫu này có size cho bé 27kg ko shop ?,ask_if_sells#size,B-inform#mention I-inform#mention O O O O B-inform#weight O O O
+"áo dài có size cho bé 53kg cao 1,55m ko shop",ask_if_sells#size,B-inform#object_type I-inform#object_type O O O O B-inform#weight O B-inform#height O O
+2 bộ này có size 11 k ạ,ask_if_sells#size,O B-inform#object_type B-inform#mention O O O O O
+áo có size của bạn 10kg k ah,ask_if_sells#size,B-inform#object_type O O O O B-inform#weight O O
+có sz 1y và 4y ko b,ask_if_sells#size,O O B-inform#age O B-inform#age O O
+có size cho bé 10 kg k bạn ơi,ask_if_sells#size,O O O O B-inform#weight I-inform#weight O O O
+mẫu này có size bé 45kg k ạ,ask_if_sells#size,B-inform#mention I-inform#mention O O O B-inform#weight O O
+có size cho bạn 22kgs k,ask_if_sells#size,O O O O B-inform#weight O
+có size 9 tuoi và 5 tuổi ko ạ,ask_if_sells#size,O O B-inform#age I-inform#age O B-inform#age I-inform#age O O
+set này có size cho bạn 36kg ko ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+có sz cho bạn 36kg,ask_if_sells#size,O O O O B-inform#weight
+có sz 11t 42kg 1m37 ko,ask_if_sells#size,O O B-inform#age B-inform#weight B-inform#height O
+check giúp c các mẫu trong hình có còn size cho bạn cao 1m33 27kg k,ask_if_sells#size,O O O O O O O O O O O O O B-inform#height B-inform#weight O
+áo bé trai có sz cho bé 27kg k?,ask_if_sells#size,B-inform#object_type B-inform#gender I-inform#gender O O O O B-inform#weight O
+áo này có sz bé 3-4y ko em,ask_if_sells#size,B-inform#object_type B-inform#mention O O O B-inform#age O O
+cho c hỏi mẫu này có size cho bé 3 tuổi 13kg ko,ask_if_sells#size,O O O B-inform#mention I-inform#mention O O O O B-inform#age I-inform#age B-inform#weight O
+có sz cho bé gái 14-16kg ko b,ask_if_sells#size,O O O B-inform#gender I-inform#gender B-inform#weight O O
+váy này có sz cho bé 30kg ko ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+"[váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} hồng có sz cho bạn 30kg cao 1.4m ko em",ask_if_sells#size,O O O O B-inform#color O O O O B-inform#weight O B-inform#height O O
+có có size cho bé 13 kg ko ạ?,ask_if_sells#size,O O O O O B-inform#weight I-inform#weight O O
+áo này có size cho bé 18kg gần 4 tuổi 100 cm ko ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O B-inform#age I-inform#age B-inform#height I-inform#height O O
+có sz 18-24m k ạ,ask_if_sells#size,O O B-inform#age O O
+có sz cho bé 13kg 98cm không ạ,ask_if_sells#size,O O O O B-inform#weight B-inform#height O O
+mn hỏi áo này có size cho bạn 2 tuổi ko ak,ask_if_sells#size,O O B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age O O
+hiện tại có size cho bé 40kg k a,ask_if_sells#size,O O O O O O B-inform#weight O O
+váy này có size cho bạn 9 tuổi 31kg k shop ơi,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age B-inform#weight O O O
+bộ này có size 24m ko b,ask_if_sells#size,B-inform#object_type B-inform#mention O O B-inform#age O O
+váy này có size cho bé 32kg ko ạ,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+2 bộ này có sz cho bé 23kg ko shop?,ask_if_sells#size,O B-inform#object_type B-inform#mention O O O O B-inform#weight O O
+có sz cho 32kg không,ask_if_sells#size,O O O B-inform#weight O
+có sz cho bé 5t 7y 9y,ask_if_sells#size,O O O O B-inform#age B-inform#age B-inform#age
+mình muốn hỏi bộ này cho bé 3y có size ko ah,ask_if_sells#size,O O O B-inform#object_type B-inform#mention O O B-inform#age O O O O
+có size cho bé 17kg k,ask_if_sells#size,O O O O B-inform#weight O
+3 mẫu này có size 150 ko?,ask_if_sells#size,O B-inform#mention I-inform#mention O O O O
+các mẫu này ở lạc trung có sz 7 và 10 ko shop,ask_if_sells#size,O B-inform#mention I-inform#mention O B-inform#location I-inform#location O O O O O O O
+"[vây]{""entity"": ""inform#object_type"", ""value"": ""vay""} này có size bé cho bé 10 tháng k",ask_if_sells#size,O O O O B-inform#mention O O O O O B-inform#age I-inform#age O
+"áo này có size bé 10 tuổi cao 1,46m nặng 31 kg ko",ask_if_sells#size,B-inform#object_type B-inform#mention O O O B-inform#age I-inform#age O B-inform#height O B-inform#weight I-inform#weight O
+"cho mình hỏi chút [áo len]{""entity"": ""inform#object_type"", ""value"": ""ao_len""} này có size 7 không ạ",ask_if_sells#size,O O O O O O O O O B-inform#mention O O O O O
+bộ này có size 7-8t và 2t k shop ơi?,ask_if_sells#size,B-inform#object_type B-inform#mention O O B-inform#age O B-inform#age O O O
+"cái [váy]{""entity"": ""inform#mention"", ""value"": ""vay""} xòe hồng có sz 3 tuổi và 9 tuổi ko",ask_if_sells#size,O O O O O O B-inform#color O O B-inform#age I-inform#age O B-inform#age I-inform#age O
+2 set này có sz 3 tuổi ko shop,ask_if_sells#size,O B-inform#object_type B-inform#mention O O B-inform#age I-inform#age O O
+có size 10 tuổi ko,ask_if_sells#size,O O B-inform#age I-inform#age O
+"[váy]{""entity"": ""inform#object_type"", ""value"": ""vay""} này có size cho bé 26 cân cao 1.24m ko",ask_if_sells#size,O O O O B-inform#mention O O O O B-inform#weight I-inform#weight O B-inform#height O
+"[áo]{""entity"": ""inform#object_type"", ""value"": ""ao""} này có size 57 kg k b",ask_if_sells#size,O O O O B-inform#mention O O B-inform#weight I-inform#weight O O
+có size cho bé 11kg cao 80cm và bé 26kg cao 1m22,ask_if_sells#size,O O O O B-inform#mention O B-inform#height O O B-inform#weight O B-inform#height
+shop ơi có size bé 7y 34kg k ah,ask_if_sells#size,O O O O O B-inform#age B-inform#weight O O
+"b ơi [chân váy]{""entity"": ""inform#object_type"", ""value"": ""chan_vay""} và [áo khoác]{""entity"": ""inform#object_type"", ""value"": ""ao_khoac""} có size cho bé 45kg ko ah",ask_if_sells#size,O O O O O O O O O O O O O O O O O B-inform#weight O O
+nhưng sản phẩm này có sz cho bé 11 tuổi 35kg k,ask_if_sells#size,O B-inform#mention I-inform#mention I-inform#mention O O O O B-inform#age I-inform#age B-inform#weight O
+ở tô hiệu hà đông có size cho bạn 24 cân ko ạ?,ask_if_sells#size,O O O B-inform#location I-inform#location O O O O B-inform#weight I-inform#weight O O
+có size cho bạn 6 tuổi ko,ask_if_sells#size,O O O O B-inform#age I-inform#age O
+"bộ này có sz 47kg - 1,57m k ạ?",ask_if_sells#size,B-inform#age B-inform#mention O O B-inform#weight O B-inform#height O O
+"có sz cho bé 5t ko ạ, 17kg",ask_if_sells#size,O O O O B-inform#mention O O B-inform#weight
+bộ này có size cho bé 11 tuổi 42 kg không bạn?,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#age I-inform#age B-inform#weight I-inform#weight O O
+b oie có size cho bé 1m46 44kg k ạ,ask_if_sells#size,O O O O O O B-inform#height B-inform#mention O O
+"[quần]{""entity"": ""inform#object_type"", ""value"": ""quan""} này có size bạn 31kg cao 1m45 không bạn?",ask_if_sells#size,O O O O B-inform#mention O O O B-inform#weight O B-inform#height O O
+có size cho bạn 32kg ko,ask_if_sells#size,O O O O B-inform#weight O
+sp có sz cho bạn 28kg không,ask_if_sells#size,O O O O O B-inform#weight O
+bộ này có sz bạn 7 tuổi k,ask_if_sells#size,B-inform#object_type B-inform#mention O O O B-inform#age I-inform#age O
+cái xanh kia có size 30kg k ạ,ask_if_sells#size,O B-inform#color B-inform#mention O O B-inform#weight O O
+có sz 19kg 5y k e,ask_if_sells#size,O O B-inform#weight B-inform#age O O
+có size cho bé 25kg k b,ask_if_sells#size,O O O O B-inform#weight O O
+m có size b 30kg 10 tuổi ko shop,ask_if_sells#size,O O O O B-inform#weight B-inform#age I-inform#age O O
+có size cho bé 10t 48kg k,ask_if_sells#size,O O O O B-inform#age B-inform#weight O
+bộ này có sz 40kg k shop ?,ask_if_sells#size,B-inform#object_type B-inform#mention O O B-inform#weight O O O
+có size 22kg k shop,ask_if_sells#size,O O B-inform#weight O O
+có sz cho bé nặng 22 kg k ah,ask_if_sells#size,O O O O O B-inform#weight I-inform#weight O O
+mẫu này có sz 1m40 42kg ko,ask_if_sells#size,B-inform#mention I-inform#mention O O B-inform#height B-inform#weight O
+bộ này có sz cho bé 35kg ko e?,ask_if_sells#size,B-inform#object_type B-inform#mention O O O O B-inform#weight O O

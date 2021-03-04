@@ -63,7 +63,8 @@ class UniqueFrequentExtractor():
             for graph in layer: 
                 for i in range(len(graphs)):
                     if self.__graph_comparator.compare(graphs[i], graph):
-                        code = self.__graph_hasher.hash(graph)
+                        # code = self.__graph_hasher.hash(graph)
+                        code = graph
                         if code in unique_frequency.keys(): 
                             unique_frequency[code] += 1
                         else: 
@@ -74,19 +75,4 @@ class UniqueFrequentExtractor():
                     if self.__graph_comparator.compare(graphs[i], graph):
                         graphs[i] = self.__graph_operator.subtract(graphs[i], graph)
         return unique_frequency
-                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         

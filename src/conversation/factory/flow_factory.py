@@ -16,5 +16,17 @@ from typing import List
 class FlowFactory(metaclass=ABCMeta): 
     
     @abstractmethod
-    def flow(flow: List[str]) -> Flow:
+    def flow(self, flow: List[str]) -> Flow:
+        pass
+    
+    @abstractmethod
+    def contain(self, code: str) -> bool: 
+        pass 
+    
+    @abstractmethod
+    def to_list(self):
+        pass 
+    
+    @abstractmethod 
+    def count(self):
         pass

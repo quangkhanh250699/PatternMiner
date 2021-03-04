@@ -5,42 +5,13 @@ Created on Mon Jan 25 13:48:45 2021
 
 @author: quangkhanh
 """
-import pandas as pd
-
-from src.miner.hasher import GraphHasher, EdgeHasher, NodeHasher
-from src.miner.factory import UserEdgeFactory, UserFlowFactory, \
-    UserGraphFactory, UserNodeFactory
-from src.miner.extractor import FlowExtractor, GraphFrequencyExtractor, \
-    UniqueFrequentExtractor, GraphExtractor
-    
-UNIQUE_SUPPORT = 400
-    
-node_hasher = NodeHasher()
-edge_hasher = EdgeHasher(node_hasher)
-graph_hasher = GraphHasher(node_hasher, edge_hasher)
-node_factory = UserNodeFactory()
-edge_factory = UserEdgeFactory(edge_hasher)
-graph_factory = UserGraphFactory(graph_hasher)
-flow_factory = UserFlowFactory()
-flow_extractor = FlowExtractor()
-graph_extractor = GraphExtractor(graph_factory,
-                                 edge_factory,
-                                 node_factory)
-graph_frequency_extractor = GraphFrequencyExtractor(graph_factory,
-                                                   graph_hasher,
-                                                   graph_extractor)
-
-unique_graph_extractor = UniqueFrequentExtractor(flow_extractor,
-                                                 graph_hasher,
-                                                 graph_factory,
-                                                 graph_extractor,
-                                                 graph_frequency_extractor, 
-                                                 LOWER_BOUND=UNIQUE_SUPPORT)
+from src.scripts.graph_analysis.base_entity import *
 
 #%% 
 flows = flow_extractor.extract("data/actions.csv")
 result = unique_graph_extractor.extract(flows)
-patterns = pd.DataFrame({"pattern": result.keys(), "frequency": result.values()})
+pattern_names = [graph_hasher.hash(p) for p in result.keys()]
+patterns = pd.DataFrame({"pattern": pattern_names, "frequency": result.values()})
 patterns
 patterns.to_csv("data/patterns.csv")
 
